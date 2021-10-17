@@ -1,0 +1,931 @@
+Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+Low Fat,0.119047301,Dairy,249.8092,OUT049,Medium,Tier 1,Supermarket Type1,3735.138
+Low Fat,0.119760075,Meat,141.618,OUT049,Medium,Tier 1,Supermarket Type1,2097.27
+Low Fat,0.103,Fruits and Vegetables,45.5402,OUT049,Medium,Tier 1,Supermarket Type1,1516.0266
+Regular,0.2030135,Fruits and Vegetables,145.4786,OUT049,Medium,Tier 1,Supermarket Type1,1589.2646
+Regular,0.172196376,Breakfast,54.3614,OUT049,Medium,Tier 1,Supermarket Type1,718.3982
+Low Fat,0.192291137,Health and Hygiene,146.7102,OUT049,Medium,Tier 1,Supermarket Type1,3791.0652
+Low Fat,0.220818348,Snack Foods,192.9136,OUT049,Medium,Tier 1,Supermarket Type1,2527.3768
+Low Fat,0.174958197,Hard Drinks,38.0506,OUT049,Medium,Tier 1,Supermarket Type1,796.9626
+low fat,0.289357148,Household,254.3698,OUT049,Medium,Tier 1,Supermarket Type1,5580.7356
+Low Fat,0.136230816,Snack Foods,172.3422,OUT049,Medium,Tier 1,Supermarket Type1,1207.0954
+Low Fat,0.142624006,Meat,117.2808,OUT049,Medium,Tier 1,Supermarket Type1,1523.3504
+Low Fat,0.208274111,Dairy,39.9138,OUT049,Medium,Tier 1,Supermarket Type1,690.4346
+Low Fat,0.234383762,Frozen Foods,246.046,OUT049,Medium,Tier 1,Supermarket Type1,1231.73
+Regular,0.218857223,Snack Foods,179.1028,OUT049,Medium,Tier 1,Supermarket Type1,3896.2616
+Low Fat,0.135677678,Frozen Foods,239.0906,OUT049,Medium,Tier 1,Supermarket Type1,5942.265
+Low Fat,0.130622076,Household,177.6344,OUT049,Medium,Tier 1,Supermarket Type1,2676.516
+Low Fat,0.142355947,Frozen Foods,246.3802,OUT049,Medium,Tier 1,Supermarket Type1,7370.406
+Low Fat,0.131907832,Health and Hygiene,130.431,OUT049,Medium,Tier 1,Supermarket Type1,778.986
+Low Fat,0.193436094,Household,85.0882,OUT049,Medium,Tier 1,Supermarket Type1,2233.0932
+Low Fat,0.249399712,Meat,103.9648,OUT049,Medium,Tier 1,Supermarket Type1,1661.8368
+Regular,0.177264356,Snack Foods,264.7568,OUT049,Medium,Tier 1,Supermarket Type1,4745.8224
+Low Fat,0.162582996,Others,238.8538,OUT049,Medium,Tier 1,Supermarket Type1,6008.845
+Low Fat,0.168732883,Frozen Foods,45.7402,OUT049,Medium,Tier 1,Supermarket Type1,780.9834
+Regular,0.236700752,Baking Goods,52.9298,OUT049,Medium,Tier 1,Supermarket Type1,1995.4026
+Low Fat,0.130106459,Meat,75.367,OUT049,Medium,Tier 1,Supermarket Type1,535.969
+Low Fat,0.191846306,Fruits and Vegetables,61.451,OUT049,Medium,Tier 1,Supermarket Type1,759.012
+Low Fat,0.222721451,Household,95.5094,OUT049,Medium,Tier 1,Supermarket Type1,1237.7222
+Low Fat,0.134452265,Baking Goods,94.3462,OUT049,Medium,Tier 1,Supermarket Type1,925.462
+Regular,0.23148269,Baking Goods,223.9404,OUT049,Medium,Tier 1,Supermarket Type1,4950.8888
+Low Fat,0.124362955,Fruits and Vegetables,103.2306,OUT049,Medium,Tier 1,Supermarket Type1,2404.2038
+Low Fat,0.210765165,Soft Drinks,59.5904,OUT049,Medium,Tier 1,Supermarket Type1,703.0848
+Low Fat,0.113647477,Meat,66.3826,OUT049,Medium,Tier 1,Supermarket Type1,1937.478
+Low Fat,0.118749341,Household,182.2608,OUT049,Medium,Tier 1,Supermarket Type1,3307.6944
+Low Fat,0.180628053,Household,197.611,OUT049,Medium,Tier 1,Supermarket Type1,3142.576
+Regular,0.16970068,Snack Foods,55.2956,OUT049,Medium,Tier 1,Supermarket Type1,1255.6988
+Low Fat,0.215271498,Snack Foods,58.222,OUT049,Medium,Tier 1,Supermarket Type1,659.142
+Low Fat,0.208761491,Fruits and Vegetables,84.8908,OUT049,Medium,Tier 1,Supermarket Type1,1677.816
+reg,0.159960814,Snack Foods,230.0984,OUT049,Medium,Tier 1,Supermarket Type1,3707.1744
+Low Fat,0.159919038,Snack Foods,212.8218,OUT049,Medium,Tier 1,Supermarket Type1,5770.4886
+Regular,0.125460102,Fruits and Vegetables,226.8036,OUT049,Medium,Tier 1,Supermarket Type1,3415.554
+Low Fat,0.15513575,Health and Hygiene,190.1846,OUT049,Medium,Tier 1,Supermarket Type1,6687.961
+Regular,0.165508438,Fruits and Vegetables,227.1062,OUT049,Medium,Tier 1,Supermarket Type1,5642.655
+Regular,0.26017236,Snack Foods,149.1418,OUT049,Medium,Tier 1,Supermarket Type1,588.5672
+Regular,0.150565208,Dairy,213.4876,OUT049,Medium,Tier 1,Supermarket Type1,1929.4884
+Low Fat,0.267196823,Household,120.5124,OUT049,Medium,Tier 1,Supermarket Type1,2133.2232
+Regular,0.115282366,Snack Foods,132.5284,OUT049,Medium,Tier 1,Supermarket Type1,1713.7692
+Regular,0.168999008,Snack Foods,177.966,OUT049,Medium,Tier 1,Supermarket Type1,2336.958
+Low Fat,0.129384672,Frozen Foods,208.9954,OUT049,Medium,Tier 1,Supermarket Type1,4584.6988
+Low Fat,0.28124575,Dairy,158.1288,OUT049,Medium,Tier 1,Supermarket Type1,3299.7048
+Regular,0.14905781,Dairy,43.8744,OUT049,Medium,Tier 1,Supermarket Type1,633.8416
+Regular,0.138205866,Fruits and Vegetables,171.3448,OUT049,Medium,Tier 1,Supermarket Type1,2386.2272
+Regular,0.203330684,Fruits and Vegetables,123.4388,OUT049,Medium,Tier 1,Supermarket Type1,1238.388
+Regular,0.234128467,Breakfast,93.1804,OUT049,Medium,Tier 1,Supermarket Type1,1561.9668
+Regular,0.117816356,Dairy,194.1162,OUT049,Medium,Tier 1,Supermarket Type1,3848.324
+Low Fat,0.134470832,Household,110.2228,OUT049,Medium,Tier 1,Supermarket Type1,1547.3192
+Regular,0.127579432,Meat,105.3306,OUT049,Medium,Tier 1,Supermarket Type1,1045.306
+Low Fat,0.203230114,Frozen Foods,112.9886,OUT049,Medium,Tier 1,Supermarket Type1,1667.829
+Regular,0.237532392,Canned,39.448,OUT049,Medium,Tier 1,Supermarket Type1,878.856
+LF,0.186133128,Baking Goods,120.1756,OUT049,Medium,Tier 1,Supermarket Type1,1332.9316
+Regular,0.144622264,Fruits and Vegetables,124.0072,OUT049,Medium,Tier 1,Supermarket Type1,4042.7376
+Low Fat,0.278352413,Soft Drinks,147.4102,OUT049,Medium,Tier 1,Supermarket Type1,2478.7734
+Regular,0.13333748,Snack Foods,222.9114,OUT049,Medium,Tier 1,Supermarket Type1,5764.4964
+Regular,0.207245198,Canned,105.3622,OUT049,Medium,Tier 1,Supermarket Type1,1270.3464
+Low Fat,0.147995631,Dairy,89.2198,OUT049,Medium,Tier 1,Supermarket Type1,1308.297
+Low Fat,0.201566832,Meat,98.3042,OUT049,Medium,Tier 1,Supermarket Type1,1488.063
+Low Fat,0.21384417,Fruits and Vegetables,189.2846,OUT049,Medium,Tier 1,Supermarket Type1,5159.2842
+Regular,0.126567538,Meat,226.8404,OUT049,Medium,Tier 1,Supermarket Type1,4500.808
+Low Fat,0.196027718,Health and Hygiene,101.4674,OUT049,Medium,Tier 1,Supermarket Type1,2954.1546
+Low Fat,0.130212058,Canned,152.734,OUT049,Medium,Tier 1,Supermarket Type1,2756.412
+Low Fat,0.134273559,Seafood,160.0604,OUT049,Medium,Tier 1,Supermarket Type1,1267.6832
+reg,0.185529704,Frozen Foods,56.9588,OUT049,Medium,Tier 1,Supermarket Type1,744.3644
+Low Fat,0.175088552,Hard Drinks,253.704,OUT049,Medium,Tier 1,Supermarket Type1,4554.072
+Low Fat,0.103,Snack Foods,120.9072,OUT049,Medium,Tier 1,Supermarket Type1,1470.0864
+Low Fat,0.142329257,Household,127.6678,OUT049,Medium,Tier 1,Supermarket Type1,2924.8594
+Regular,0.111579863,Meat,72.3038,OUT049,Medium,Tier 1,Supermarket Type1,960.7494
+Regular,0.161516562,Fruits and Vegetables,164.1552,OUT049,Medium,Tier 1,Supermarket Type1,5198.5664
+Regular,0.161365706,Frozen Foods,82.1908,OUT049,Medium,Tier 1,Supermarket Type1,2432.8332
+Low Fat,0.103,Canned,179.3002,OUT049,Medium,Tier 1,Supermarket Type1,2328.3026
+Low Fat,0.160485328,Fruits and Vegetables,126.2046,OUT049,Medium,Tier 1,Supermarket Type1,1867.569
+Low Fat,0.194008572,Hard Drinks,129.6336,OUT049,Medium,Tier 1,Supermarket Type1,3195.84
+Regular,0.259286566,Fruits and Vegetables,238.9538,OUT049,Medium,Tier 1,Supermarket Type1,4086.0146
+reg,0.103,Fruits and Vegetables,178.9318,OUT049,Medium,Tier 1,Supermarket Type1,3067.3406
+Low Fat,0.179855207,Dairy,59.3536,OUT049,Medium,Tier 1,Supermarket Type1,1470.0864
+Low Fat,0.15229502,Fruits and Vegetables,150.505,OUT049,Medium,Tier 1,Supermarket Type1,2696.49
+Low Fat,0.17885337,Health and Hygiene,36.8532,OUT049,Medium,Tier 1,Supermarket Type1,1150.5024
+Low Fat,0.232086113,Breads,89.4856,OUT049,Medium,Tier 1,Supermarket Type1,1054.6272
+Low Fat,0.223139206,Dairy,45.0744,OUT049,Medium,Tier 1,Supermarket Type1,452.744
+Regular,0.225657336,Fruits and Vegetables,110.1544,OUT049,Medium,Tier 1,Supermarket Type1,1565.9616
+Regular,0.15275339,Meat,210.3586,OUT049,Medium,Tier 1,Supermarket Type1,6331.758
+Low Fat,0.262582185,Soft Drinks,224.772,OUT049,Medium,Tier 1,Supermarket Type1,7017.532
+Low Fat,0.140690731,Baking Goods,73.3354,OUT049,Medium,Tier 1,Supermarket Type1,451.4124
+Low Fat,0.135230526,Meat,61.4194,OUT049,Medium,Tier 1,Supermarket Type1,743.0328
+Low Fat,0.113008699,Household,176.737,OUT049,Medium,Tier 1,Supermarket Type1,4940.236
+Low Fat,0.277621343,Snack Foods,104.2964,OUT049,Medium,Tier 1,Supermarket Type1,1998.7316
+Low Fat,0.175410764,Fruits and Vegetables,48.2034,OUT049,Medium,Tier 1,Supermarket Type1,1020.6714
+Low Fat,0.141789271,Fruits and Vegetables,115.6808,OUT049,Medium,Tier 1,Supermarket Type1,703.0848
+Regular,0.129643448,Meat,37.9532,OUT049,Medium,Tier 1,Supermarket Type1,862.8768
+Low Fat,0.166664998,Frozen Foods,151.6708,OUT049,Medium,Tier 1,Supermarket Type1,3912.2408
+Regular,0.181522357,Fruits and Vegetables,257.1646,OUT049,Medium,Tier 1,Supermarket Type1,6183.9504
+Low Fat,0.175952298,Canned,76.0986,OUT049,Medium,Tier 1,Supermarket Type1,623.1888
+Low Fat,0.179975118,Fruits and Vegetables,46.2086,OUT049,Medium,Tier 1,Supermarket Type1,490.6946
+Low Fat,0.173890602,Soft Drinks,111.686,OUT049,Medium,Tier 1,Supermarket Type1,1584.604
+Low Fat,0.103,Fruits and Vegetables,111.9518,OUT049,Medium,Tier 1,Supermarket Type1,2163.1842
+Regular,0.114143599,Snack Foods,88.254,OUT049,Medium,Tier 1,Supermarket Type1,1125.202
+Low Fat,0.117045832,Household,222.7746,OUT049,Medium,Tier 1,Supermarket Type1,1570.6222
+Regular,0.186736551,Frozen Foods,178.7318,OUT049,Medium,Tier 1,Supermarket Type1,3428.2042
+Low Fat,0.131365524,Household,110.0912,OUT049,Medium,Tier 1,Supermarket Type1,1637.868
+low fat,0.103,Hard Drinks,72.338,OUT049,Medium,Tier 1,Supermarket Type1,805.618
+Low Fat,0.136160417,Household,119.6124,OUT049,Medium,Tier 1,Supermarket Type1,2251.7356
+Regular,0.128966531,Meat,102.2674,OUT049,Medium,Tier 1,Supermarket Type1,2444.8176
+Regular,0.142906377,Fruits and Vegetables,191.3188,OUT049,Medium,Tier 1,Supermarket Type1,1713.7692
+Regular,0.182419755,Baking Goods,99.8042,OUT049,Medium,Tier 1,Supermarket Type1,1488.063
+Regular,0.119622448,Fruits and Vegetables,50.2034,OUT049,Medium,Tier 1,Supermarket Type1,1166.4816
+Low Fat,0.117482153,Health and Hygiene,182.295,OUT049,Medium,Tier 1,Supermarket Type1,3661.9
+Regular,0.128205909,Canned,149.1418,OUT049,Medium,Tier 1,Supermarket Type1,1177.1344
+Low Fat,0.214613921,Snack Foods,152.6998,OUT049,Medium,Tier 1,Supermarket Type1,3383.5956
+Low Fat,0.216694957,Household,253.4724,OUT049,Medium,Tier 1,Supermarket Type1,6040.1376
+Low Fat,0.138204319,Household,122.873,OUT049,Medium,Tier 1,Supermarket Type1,2832.979
+Low Fat,0.149026479,Baking Goods,196.5084,OUT049,Medium,Tier 1,Supermarket Type1,3769.7596
+Low Fat,0.155149675,Snack Foods,118.3124,OUT049,Medium,Tier 1,Supermarket Type1,1540.6612
+Regular,0.129561057,Canned,93.712,OUT049,Medium,Tier 1,Supermarket Type1,466.06
+Low Fat,0.144009558,Snack Foods,141.2496,OUT049,Medium,Tier 1,Supermarket Type1,2681.8424
+Regular,0.103,Breads,101.699,OUT049,Medium,Tier 1,Supermarket Type1,2373.577
+Low Fat,0.178845634,Household,156.0656,OUT049,Medium,Tier 1,Supermarket Type1,1853.5872
+Low Fat,0.144459804,Fruits and Vegetables,39.2164,OUT049,Medium,Tier 1,Supermarket Type1,540.6296
+Low Fat,0.116387211,Others,105.628,OUT049,Medium,Tier 1,Supermarket Type1,1065.28
+Low Fat,0.163942632,Starchy Foods,225.6404,OUT049,Medium,Tier 1,Supermarket Type1,2925.5252
+Regular,0.133616757,Fruits and Vegetables,112.7176,OUT049,Medium,Tier 1,Supermarket Type1,343.5528
+Regular,0.247856342,Snack Foods,100.5332,OUT049,Medium,Tier 1,Supermarket Type1,1127.8652
+Low Fat,0.150964395,Snack Foods,185.0898,OUT049,Medium,Tier 1,Supermarket Type1,2993.4368
+Low Fat,0.208018817,Snack Foods,155.263,OUT049,Medium,Tier 1,Supermarket Type1,1721.093
+Low Fat,0.156553794,Dairy,178.6002,OUT049,Medium,Tier 1,Supermarket Type1,3582.004
+Regular,0.181181964,Meat,106.7596,OUT049,Medium,Tier 1,Supermarket Type1,4098.6648
+Regular,0.138895934,Frozen Foods,244.4486,OUT049,Medium,Tier 1,Supermarket Type1,6353.0636
+Low Fat,0.142980644,Snack Foods,227.3694,OUT049,Medium,Tier 1,Supermarket Type1,4567.388
+Regular,0.112636821,Dairy,121.873,OUT049,Medium,Tier 1,Supermarket Type1,2463.46
+Low Fat,0.189266286,Frozen Foods,147.2076,OUT049,Medium,Tier 1,Supermarket Type1,1921.4988
+Low Fat,0.164883353,Dairy,147.905,OUT049,Medium,Tier 1,Supermarket Type1,1647.855
+Low Fat,0.167241345,Hard Drinks,45.206,OUT049,Medium,Tier 1,Supermarket Type1,792.302
+Low Fat,0.1844536,Others,36.819,OUT049,Medium,Tier 1,Supermarket Type1,768.999
+LF,0.17907772,Baking Goods,112.4544,OUT049,Medium,Tier 1,Supermarket Type1,2348.9424
+Regular,0.103,Fruits and Vegetables,193.0504,OUT049,Medium,Tier 1,Supermarket Type1,2492.7552
+Low Fat,0.21711658,Health and Hygiene,158.8604,OUT049,Medium,Tier 1,Supermarket Type1,4436.8912
+Regular,0.133890618,Canned,228.7352,OUT049,Medium,Tier 1,Supermarket Type1,5954.9152
+Regular,0.167307102,Fruits and Vegetables,77.3012,OUT049,Medium,Tier 1,Supermarket Type1,1593.9252
+Regular,0.201938169,Frozen Foods,195.7768,OUT049,Medium,Tier 1,Supermarket Type1,4138.6128
+Regular,0.103,Fruits and Vegetables,208.5638,OUT049,Medium,Tier 1,Supermarket Type1,5383.6588
+Regular,0.240858955,Frozen Foods,162.1236,OUT049,Medium,Tier 1,Supermarket Type1,2577.9776
+Low Fat,0.240023446,Dairy,263.7568,OUT049,Medium,Tier 1,Supermarket Type1,7646.0472
+reg,0.152712775,Fruits and Vegetables,78.2644,OUT049,Medium,Tier 1,Supermarket Type1,1492.7236
+Low Fat,0.156527105,Health and Hygiene,185.1608,OUT049,Medium,Tier 1,Supermarket Type1,2388.8904
+Regular,0.231459481,Baking Goods,102.0332,OUT049,Medium,Tier 1,Supermarket Type1,2050.664
+reg,0.217294512,Dairy,94.9436,OUT049,Medium,Tier 1,Supermarket Type1,1229.0668
+Low Fat,0.211059141,Snack Foods,181.7634,OUT049,Medium,Tier 1,Supermarket Type1,6179.9556
+Low Fat,0.152016517,Household,128.7336,OUT049,Medium,Tier 1,Supermarket Type1,2173.1712
+Regular,0.133672457,Snack Foods,253.1724,OUT049,Medium,Tier 1,Supermarket Type1,5285.1204
+Regular,0.137658144,Breads,155.8288,OUT049,Medium,Tier 1,Supermarket Type1,1099.9016
+Low Fat,0.270844438,Household,193.9136,OUT049,Medium,Tier 1,Supermarket Type1,3110.6176
+Low Fat,0.161827557,Health and Hygiene,80.8618,OUT049,Medium,Tier 1,Supermarket Type1,1288.9888
+Low Fat,0.151092816,Hard Drinks,159.2946,OUT049,Medium,Tier 1,Supermarket Type1,1893.5352
+Regular,0.228469442,Snack Foods,264.491,OUT049,Medium,Tier 1,Supermarket Type1,6574.775
+reg,0.174958197,Dairy,195.3794,OUT049,Medium,Tier 1,Supermarket Type1,3511.4292
+Low Fat,0.135678839,Frozen Foods,150.7392,OUT049,Medium,Tier 1,Supermarket Type1,3131.9232
+Regular,0.114443222,Snack Foods,73.5038,OUT049,Medium,Tier 1,Supermarket Type1,1478.076
+Low Fat,0.118302653,Snack Foods,198.0084,OUT049,Medium,Tier 1,Supermarket Type1,793.6336
+Low Fat,0.103,Baking Goods,148.705,OUT049,Medium,Tier 1,Supermarket Type1,1198.44
+Low Fat,0.201775709,Household,208.927,OUT049,Medium,Tier 1,Supermarket Type1,7130.718
+LF,0.136952603,Snack Foods,148.2076,OUT049,Medium,Tier 1,Supermarket Type1,3399.5748
+Regular,0.103,Fruits and Vegetables,227.5694,OUT049,Medium,Tier 1,Supermarket Type1,3653.9104
+Low Fat,0.161222587,Snack Foods,114.8834,OUT049,Medium,Tier 1,Supermarket Type1,3340.3186
+Low Fat,0.169724663,Fruits and Vegetables,187.724,OUT049,Medium,Tier 1,Supermarket Type1,1491.392
+Regular,0.202286298,Snack Foods,49.8666,OUT049,Medium,Tier 1,Supermarket Type1,563.9326
+Low Fat,0.193111173,Dairy,141.3154,OUT049,Medium,Tier 1,Supermarket Type1,3261.7542
+Low Fat,0.185970667,Household,60.0194,OUT049,Medium,Tier 1,Supermarket Type1,1114.5492
+Low Fat,0.135152004,Canned,50.6008,OUT049,Medium,Tier 1,Supermarket Type1,404.8064
+Low Fat,0.123229757,Household,260.8962,OUT049,Medium,Tier 1,Supermarket Type1,5956.9126
+reg,0.28914827,Baking Goods,78.2328,OUT049,Medium,Tier 1,Supermarket Type1,1158.492
+Low Fat,0.103,Fruits and Vegetables,128.4652,OUT049,Medium,Tier 1,Supermarket Type1,2841.6344
+Low Fat,0.119852909,Hard Drinks,180.666,OUT049,Medium,Tier 1,Supermarket Type1,2876.256
+Low Fat,0.109775667,Household,42.9112,OUT049,Medium,Tier 1,Supermarket Type1,1022.6688
+Low Fat,0.123519478,Household,42.5112,OUT049,Medium,Tier 1,Supermarket Type1,852.224
+Low Fat,0.132785889,Snack Foods,38.9822,OUT049,Medium,Tier 1,Supermarket Type1,628.5152
+Low Fat,0.166127333,Canned,100.47,OUT049,Medium,Tier 1,Supermarket Type1,1597.92
+Low Fat,0.131988288,Snack Foods,239.2222,OUT049,Medium,Tier 1,Supermarket Type1,6692.6216
+Low Fat,0.220095014,Frozen Foods,78.067,OUT049,Medium,Tier 1,Supermarket Type1,1148.505
+Low Fat,0.169887123,Frozen Foods,183.9292,OUT049,Medium,Tier 1,Supermarket Type1,3283.7256
+Low Fat,0.174188446,Soft Drinks,111.9518,OUT049,Medium,Tier 1,Supermarket Type1,1138.518
+Low Fat,0.147291251,Frozen Foods,43.3454,OUT049,Medium,Tier 1,Supermarket Type1,503.3448
+Low Fat,0.203388706,Fruits and Vegetables,76.0328,OUT049,Medium,Tier 1,Supermarket Type1,1853.5872
+Low Fat,0.175994847,Fruits and Vegetables,189.253,OUT049,Medium,Tier 1,Supermarket Type1,1328.271
+Low Fat,0.280971115,Household,174.0422,OUT049,Medium,Tier 1,Supermarket Type1,2069.3064
+Low Fat,0.132569276,Household,115.015,OUT049,Medium,Tier 1,Supermarket Type1,2912.875
+Low Fat,0.111778413,Fruits and Vegetables,122.4414,OUT049,Medium,Tier 1,Supermarket Type1,1583.9382
+Low Fat,0.116834247,Frozen Foods,62.7168,OUT049,Medium,Tier 1,Supermarket Type1,958.752
+low fat,0.112893817,Health and Hygiene,50.3034,OUT049,Medium,Tier 1,Supermarket Type1,972.068
+Low Fat,0.128519534,Dairy,238.7538,OUT049,Medium,Tier 1,Supermarket Type1,3605.307
+Low Fat,0.162417055,Household,237.9248,OUT049,Medium,Tier 1,Supermarket Type1,2133.2232
+Regular,0.161822142,Baking Goods,173.5422,OUT049,Medium,Tier 1,Supermarket Type1,3448.844
+Low Fat,0.174368699,Frozen Foods,121.3098,OUT049,Medium,Tier 1,Supermarket Type1,1446.1176
+Low Fat,0.137624104,Hard Drinks,115.0492,OUT049,Medium,Tier 1,Supermarket Type1,4054.722
+Low Fat,0.155121825,Health and Hygiene,104.828,OUT049,Medium,Tier 1,Supermarket Type1,2343.616
+Low Fat,0.126613955,Soft Drinks,192.8846,OUT049,Medium,Tier 1,Supermarket Type1,5350.3688
+Low Fat,0.103,Others,65.0142,OUT049,Medium,Tier 1,Supermarket Type1,1120.5414
+Low Fat,0.132827665,Soft Drinks,144.3444,OUT049,Medium,Tier 1,Supermarket Type1,2612.5992
+Low Fat,0.152396364,Fruits and Vegetables,146.4734,OUT049,Medium,Tier 1,Supermarket Type1,3563.3616
+Regular,0.127243294,Frozen Foods,116.0176,OUT049,Medium,Tier 1,Supermarket Type1,1603.2464
+Low Fat,0.139729122,Frozen Foods,179.7976,OUT049,Medium,Tier 1,Supermarket Type1,2535.3664
+Regular,0.179681143,Frozen Foods,110.7228,OUT049,Medium,Tier 1,Supermarket Type1,1657.842
+Regular,0.226620492,Snack Foods,90.0514,OUT049,Medium,Tier 1,Supermarket Type1,1505.3738
+Regular,0.180292302,Soft Drinks,235.3958,OUT049,Medium,Tier 1,Supermarket Type1,6309.7866
+Regular,0.148763062,Snack Foods,38.4848,OUT049,Medium,Tier 1,Supermarket Type1,633.8416
+Regular,0.111046878,Frozen Foods,78.7618,OUT049,Medium,Tier 1,Supermarket Type1,402.809
+Low Fat,0.117653896,Baking Goods,82.425,OUT049,Medium,Tier 1,Supermarket Type1,749.025
+Regular,0.177743226,Fruits and Vegetables,187.6556,OUT049,Medium,Tier 1,Supermarket Type1,5257.1568
+Regular,0.148337184,Baking Goods,36.8874,OUT049,Medium,Tier 1,Supermarket Type1,564.5984
+Regular,0.165797771,Frozen Foods,103.999,OUT049,Medium,Tier 1,Supermarket Type1,825.592
+reg,0.194054989,Frozen Foods,231.8984,OUT049,Medium,Tier 1,Supermarket Type1,4633.968
+Low Fat,0.24826636,Health and Hygiene,224.0404,OUT049,Medium,Tier 1,Supermarket Type1,3375.606
+Low Fat,0.235876847,Dairy,98.0726,OUT049,Medium,Tier 1,Supermarket Type1,1076.5986
+Low Fat,0.122536981,Household,170.0474,OUT049,Medium,Tier 1,Supermarket Type1,4211.185
+Low Fat,0.206603094,Snack Foods,143.547,OUT049,Medium,Tier 1,Supermarket Type1,1431.47
+Low Fat,0.207840884,Frozen Foods,122.1072,OUT049,Medium,Tier 1,Supermarket Type1,490.0288
+Low Fat,0.124464454,Baking Goods,156.6288,OUT049,Medium,Tier 1,Supermarket Type1,3928.22
+Low Fat,0.119637301,Frozen Foods,120.9098,OUT049,Medium,Tier 1,Supermarket Type1,1687.1372
+Low Fat,0.158519561,Dairy,219.8114,OUT049,Medium,Tier 1,Supermarket Type1,1108.557
+Regular,0.183765853,Frozen Foods,262.8936,OUT049,Medium,Tier 1,Supermarket Type1,4958.8784
+Regular,0.157540159,Frozen Foods,152.1366,OUT049,Medium,Tier 1,Supermarket Type1,755.683
+Low Fat,0.155149675,Soft Drinks,239.9564,OUT049,Medium,Tier 1,Supermarket Type1,3813.7024
+Low Fat,0.153130529,Health and Hygiene,128.3336,OUT049,Medium,Tier 1,Supermarket Type1,2556.672
+Regular,0.127987903,Fruits and Vegetables,97.341,OUT049,Medium,Tier 1,Supermarket Type1,1255.033
+Regular,0.131167478,Fruits and Vegetables,45.5744,OUT049,Medium,Tier 1,Supermarket Type1,452.744
+Low Fat,0.159379439,Frozen Foods,42.7454,OUT049,Medium,Tier 1,Supermarket Type1,293.6178
+low fat,0.232534812,Household,190.1872,OUT049,Medium,Tier 1,Supermarket Type1,5105.3544
+Low Fat,0.225843005,Hard Drinks,172.4396,OUT049,Medium,Tier 1,Supermarket Type1,1569.9564
+Low Fat,0.152144165,Snack Foods,112.7176,OUT049,Medium,Tier 1,Supermarket Type1,1717.764
+Low Fat,0.143577878,Fruits and Vegetables,188.224,OUT049,Medium,Tier 1,Supermarket Type1,1304.968
+Low Fat,0.170400032,Household,41.9796,OUT049,Medium,Tier 1,Supermarket Type1,784.3124
+Low Fat,0.175097449,Snack Foods,119.3098,OUT049,Medium,Tier 1,Supermarket Type1,1205.098
+Regular,0.220543713,Baking Goods,197.311,OUT049,Medium,Tier 1,Supermarket Type1,3338.987
+Regular,0.158644887,Breads,224.9088,OUT049,Medium,Tier 1,Supermarket Type1,2684.5056
+Low Fat,0.130101431,Soft Drinks,151.7682,OUT049,Medium,Tier 1,Supermarket Type1,2439.4912
+Low Fat,0.190805788,Fruits and Vegetables,126.7678,OUT049,Medium,Tier 1,Supermarket Type1,1907.517
+LF,0.149556408,Fruits and Vegetables,47.7692,OUT049,Medium,Tier 1,Supermarket Type1,640.4996
+Low Fat,0.28593775,Others,243.0196,OUT049,Medium,Tier 1,Supermarket Type1,3615.294
+Regular,0.121051091,Frozen Foods,179.866,OUT049,Medium,Tier 1,Supermarket Type1,2696.49
+Low Fat,0.103,Health and Hygiene,47.8034,OUT049,Medium,Tier 1,Supermarket Type1,437.4306
+reg,0.103,Fruits and Vegetables,256.633,OUT049,Medium,Tier 1,Supermarket Type1,2050.664
+Regular,0.166429818,Dairy,179.4318,OUT049,Medium,Tier 1,Supermarket Type1,2345.6134
+Low Fat,0.215097433,Frozen Foods,105.5622,OUT049,Medium,Tier 1,Supermarket Type1,1905.5196
+Low Fat,0.125831052,Fruits and Vegetables,160.292,OUT049,Medium,Tier 1,Supermarket Type1,4793.76
+Regular,0.179878416,Snack Foods,113.9518,OUT049,Medium,Tier 1,Supermarket Type1,1138.518
+Regular,0.196801337,Snack Foods,126.0704,OUT049,Medium,Tier 1,Supermarket Type1,1251.704
+Low Fat,0.221858866,Household,263.291,OUT049,Medium,Tier 1,Supermarket Type1,3418.883
+Regular,0.149881328,Canned,141.3838,OUT049,Medium,Tier 1,Supermarket Type1,1685.8056
+Regular,0.178625152,Breads,145.7444,OUT049,Medium,Tier 1,Supermarket Type1,3193.1768
+Low Fat,0.202804623,Snack Foods,113.7544,OUT049,Medium,Tier 1,Supermarket Type1,3243.7776
+Low Fat,0.196441604,Snack Foods,119.1124,OUT049,Medium,Tier 1,Supermarket Type1,3673.8844
+Low Fat,0.118484763,Frozen Foods,211.9928,OUT049,Medium,Tier 1,Supermarket Type1,631.1784
+Regular,0.122965179,Frozen Foods,130.531,OUT049,Medium,Tier 1,Supermarket Type1,908.817
+Regular,0.186643716,Canned,196.0426,OUT049,Medium,Tier 1,Supermarket Type1,2570.6538
+Low Fat,0.137360687,Household,215.7218,OUT049,Medium,Tier 1,Supermarket Type1,4274.436
+Regular,0.240580452,Meat,182.8608,OUT049,Medium,Tier 1,Supermarket Type1,4042.7376
+Low Fat,0.111960445,Meat,119.1756,OUT049,Medium,Tier 1,Supermarket Type1,1696.4584
+Low Fat,0.112791467,Others,213.256,OUT049,Medium,Tier 1,Supermarket Type1,4687.232
+Regular,0.133198228,Baking Goods,98.2384,OUT049,Medium,Tier 1,Supermarket Type1,2167.8448
+Regular,0.127442501,Fruits and Vegetables,196.411,OUT049,Medium,Tier 1,Supermarket Type1,2749.754
+Regular,0.158805027,Baking Goods,53.0666,OUT049,Medium,Tier 1,Supermarket Type1,512.666
+Regular,0.168735977,Fruits and Vegetables,189.6214,OUT049,Medium,Tier 1,Supermarket Type1,2826.321
+Low Fat,0.179089711,Snack Foods,212.9218,OUT049,Medium,Tier 1,Supermarket Type1,3846.9924
+Regular,0.123908608,Snack Foods,63.5194,OUT049,Medium,Tier 1,Supermarket Type1,557.2746
+Low Fat,0.135819637,Household,38.9822,OUT049,Medium,Tier 1,Supermarket Type1,982.055
+Regular,0.199249842,Meat,134.4942,OUT049,Medium,Tier 1,Supermarket Type1,2119.9072
+Low Fat,0.157318517,Snack Foods,140.9154,OUT049,Medium,Tier 1,Supermarket Type1,6381.693
+Low Fat,0.103,Health and Hygiene,42.877,OUT049,Medium,Tier 1,Supermarket Type1,649.155
+Low Fat,0.138711426,Health and Hygiene,93.612,OUT049,Medium,Tier 1,Supermarket Type1,1584.604
+Low Fat,0.199536082,Breads,162.8552,OUT049,Medium,Tier 1,Supermarket Type1,3574.0144
+Low Fat,0.206138922,Baking Goods,141.747,OUT049,Medium,Tier 1,Supermarket Type1,3006.087
+Low Fat,0.109708517,Household,164.6184,OUT049,Medium,Tier 1,Supermarket Type1,2972.1312
+Low Fat,0.145687151,Frozen Foods,195.911,OUT049,Medium,Tier 1,Supermarket Type1,2946.165
+Low Fat,0.129651184,Snack Foods,86.6198,OUT049,Medium,Tier 1,Supermarket Type1,1657.1762
+Regular,0.151218142,Baking Goods,42.2138,OUT049,Medium,Tier 1,Supermarket Type1,690.4346
+Regular,0.137043503,Snack Foods,168.7158,OUT049,Medium,Tier 1,Supermarket Type1,2673.8528
+Low Fat,0.156372768,Canned,149.5734,OUT049,Medium,Tier 1,Supermarket Type1,2524.0478
+Low Fat,0.123609218,Soft Drinks,155.1656,OUT049,Medium,Tier 1,Supermarket Type1,4016.1056
+Low Fat,0.179975118,Snack Foods,161.8236,OUT049,Medium,Tier 1,Supermarket Type1,1611.236
+Low Fat,0.131642712,Household,149.0708,OUT049,Medium,Tier 1,Supermarket Type1,1203.7664
+Low Fat,0.140457098,Canned,83.4224,OUT049,Medium,Tier 1,Supermarket Type1,1448.7808
+Regular,0.148835395,Snack Foods,168.2132,OUT049,Medium,Tier 1,Supermarket Type1,2367.5848
+Low Fat,0.1606269,Dairy,83.3566,OUT049,Medium,Tier 1,Supermarket Type1,1860.2452
+Low Fat,0.192608321,Dairy,262.1594,OUT049,Medium,Tier 1,Supermarket Type1,3139.9128
+Low Fat,0.144355366,Household,88.7514,OUT049,Medium,Tier 1,Supermarket Type1,2656.542
+Low Fat,0.130748176,Soft Drinks,86.5198,OUT049,Medium,Tier 1,Supermarket Type1,1395.5168
+Low Fat,0.189916126,Hard Drinks,153.3682,OUT049,Medium,Tier 1,Supermarket Type1,1219.7456
+Low Fat,0.244108156,Breads,128.2994,OUT049,Medium,Tier 1,Supermarket Type1,2698.4874
+Low Fat,0.144355366,Starchy Foods,182.0634,OUT049,Medium,Tier 1,Supermarket Type1,4544.085
+Low Fat,0.1373603,Fruits and Vegetables,253.4356,OUT049,Medium,Tier 1,Supermarket Type1,2797.6916
+Regular,0.203922503,Fruits and Vegetables,199.0768,OUT049,Medium,Tier 1,Supermarket Type1,2759.0752
+Low Fat,0.128742955,Household,197.1084,OUT049,Medium,Tier 1,Supermarket Type1,4761.8016
+LF,0.144803291,Frozen Foods,110.3912,OUT049,Medium,Tier 1,Supermarket Type1,3275.736
+Low Fat,0.123579897,Fruits and Vegetables,52.1324,OUT049,Medium,Tier 1,Supermarket Type1,934.7832
+Regular,0.128912378,Fruits and Vegetables,146.8418,OUT049,Medium,Tier 1,Supermarket Type1,1765.7016
+Low Fat,0.218346634,Soft Drinks,200.2084,OUT049,Medium,Tier 1,Supermarket Type1,4563.3932
+Low Fat,0.148378573,Dairy,42.4138,OUT049,Medium,Tier 1,Supermarket Type1,243.6828
+Regular,0.20661083,Fruits and Vegetables,228.372,OUT049,Medium,Tier 1,Supermarket Type1,905.488
+Low Fat,0.227645538,Frozen Foods,117.2124,OUT049,Medium,Tier 1,Supermarket Type1,2133.2232
+Regular,0.186059634,Frozen Foods,35.7558,OUT049,Medium,Tier 1,Supermarket Type1,611.2044
+Low Fat,0.124010687,Health and Hygiene,131.3942,OUT049,Medium,Tier 1,Supermarket Type1,927.4594
+Low Fat,0.176524776,Seafood,34.8216,OUT049,Medium,Tier 1,Supermarket Type1,207.7296
+Low Fat,0.134331581,Fruits and Vegetables,111.1228,OUT049,Medium,Tier 1,Supermarket Type1,663.1368
+Low Fat,0.144429246,Fruits and Vegetables,117.2466,OUT049,Medium,Tier 1,Supermarket Type1,2239.0854
+Low Fat,0.159005781,Baking Goods,99.2016,OUT049,Medium,Tier 1,Supermarket Type1,1518.024
+Regular,0.1413808,Baking Goods,62.351,OUT049,Medium,Tier 1,Supermarket Type1,885.514
+Low Fat,0.149631836,Health and Hygiene,98.4384,OUT049,Medium,Tier 1,Supermarket Type1,1576.6144
+Regular,0.179839735,Snack Foods,34.9558,OUT049,Medium,Tier 1,Supermarket Type1,373.5138
+Regular,0.207183308,Baking Goods,166.15,OUT049,Medium,Tier 1,Supermarket Type1,3828.35
+Regular,0.164272194,Meat,125.6388,OUT049,Medium,Tier 1,Supermarket Type1,1733.7432
+Low Fat,0.136271818,Fruits and Vegetables,196.5768,OUT049,Medium,Tier 1,Supermarket Type1,5715.2272
+Regular,0.255364317,Fruits and Vegetables,254.0382,OUT049,Medium,Tier 1,Supermarket Type1,1261.691
+Low Fat,0.264740582,Fruits and Vegetables,38.419,OUT049,Medium,Tier 1,Supermarket Type1,805.618
+Low Fat,0.103,Household,197.111,OUT049,Medium,Tier 1,Supermarket Type1,3731.809
+Low Fat,0.13348292,Dairy,257.2672,OUT049,Medium,Tier 1,Supermarket Type1,3068.0064
+reg,0.138627489,Baking Goods,146.6444,OUT049,Medium,Tier 1,Supermarket Type1,870.8664
+Regular,0.253248468,Frozen Foods,155.2288,OUT049,Medium,Tier 1,Supermarket Type1,1257.0304
+Regular,0.185394321,Baking Goods,48.5034,OUT049,Medium,Tier 1,Supermarket Type1,243.017
+Low Fat,0.244475625,Snack Foods,155.0998,OUT049,Medium,Tier 1,Supermarket Type1,1230.3984
+Low Fat,0.290850233,Canned,146.5418,OUT049,Medium,Tier 1,Supermarket Type1,2501.4106
+reg,0.165321222,Baking Goods,87.2514,OUT049,Medium,Tier 1,Supermarket Type1,265.6542
+Regular,0.161207114,Snack Foods,59.1562,OUT049,Medium,Tier 1,Supermarket Type1,1185.124
+Low Fat,0.121052019,Health and Hygiene,96.6094,OUT049,Medium,Tier 1,Supermarket Type1,856.8846
+Low Fat,0.192917769,Health and Hygiene,160.3604,OUT049,Medium,Tier 1,Supermarket Type1,2852.2872
+Regular,0.177035365,Dairy,256.1356,OUT049,Medium,Tier 1,Supermarket Type1,4578.0408
+Low Fat,0.103,Dairy,263.7884,OUT049,Medium,Tier 1,Supermarket Type1,3709.8376
+Low Fat,0.18809812,Snack Foods,108.2912,OUT049,Medium,Tier 1,Supermarket Type1,2293.0152
+Low Fat,0.122901356,Household,157.5972,OUT049,Medium,Tier 1,Supermarket Type1,3427.5384
+Low Fat,0.133751366,Hard Drinks,42.577,OUT049,Medium,Tier 1,Supermarket Type1,952.094
+Low Fat,0.149342889,Baking Goods,97.3384,OUT049,Medium,Tier 1,Supermarket Type1,886.8456
+Low Fat,0.149707264,Meat,152.6682,OUT049,Medium,Tier 1,Supermarket Type1,1829.6184
+Low Fat,0.114838464,Household,155.134,OUT049,Medium,Tier 1,Supermarket Type1,2603.278
+Low Fat,0.137457776,Hard Drinks,113.3834,OUT049,Medium,Tier 1,Supermarket Type1,2073.3012
+Regular,0.147091657,Baking Goods,182.995,OUT049,Medium,Tier 1,Supermarket Type1,3844.995
+Regular,0.232705008,Snack Foods,141.8838,OUT049,Medium,Tier 1,Supermarket Type1,1966.7732
+Low Fat,0.118700603,Others,141.147,OUT049,Medium,Tier 1,Supermarket Type1,2719.793
+Low Fat,0.155637056,Frozen Foods,88.583,OUT049,Medium,Tier 1,Supermarket Type1,808.947
+Low Fat,0.136997473,Others,129.9284,OUT049,Medium,Tier 1,Supermarket Type1,1845.5976
+Regular,0.274093639,Dairy,155.663,OUT049,Medium,Tier 1,Supermarket Type1,2034.019
+Regular,0.125093019,Meat,195.9452,OUT049,Medium,Tier 1,Supermarket Type1,2348.9424
+Regular,0.147321422,Meat,103.899,OUT049,Medium,Tier 1,Supermarket Type1,2889.572
+Regular,0.237919202,Snack Foods,46.9402,OUT049,Medium,Tier 1,Supermarket Type1,780.9834
+Regular,0.262968994,Fruits and Vegetables,147.6102,OUT049,Medium,Tier 1,Supermarket Type1,1603.9122
+Low Fat,0.134143591,Snack Foods,183.9582,OUT049,Medium,Tier 1,Supermarket Type1,5386.9878
+Low Fat,0.202290166,Household,214.0902,OUT049,Medium,Tier 1,Supermarket Type1,1486.7314
+Regular,0.225494876,Fruits and Vegetables,100.1016,OUT049,Medium,Tier 1,Supermarket Type1,1416.8224
+Low Fat,0.125980361,Fruits and Vegetables,117.7492,OUT049,Medium,Tier 1,Supermarket Type1,1274.3412
+Low Fat,0.111554102,Baking Goods,79.3618,OUT049,Medium,Tier 1,Supermarket Type1,805.618
+LF,0.186929569,Meat,182.4292,OUT049,Medium,Tier 1,Supermarket Type1,4925.5884
+Low Fat,0.225684413,Canned,132.2942,OUT049,Medium,Tier 1,Supermarket Type1,2252.4014
+Low Fat,0.19988421,Fruits and Vegetables,233.5958,OUT049,Medium,Tier 1,Supermarket Type1,2336.958
+Regular,0.162894378,Fruits and Vegetables,125.9678,OUT049,Medium,Tier 1,Supermarket Type1,2797.6916
+Low Fat,0.115627478,Snack Foods,140.818,OUT049,Medium,Tier 1,Supermarket Type1,3495.45
+reg,0.12802991,Fruits and Vegetables,218.4508,OUT049,Medium,Tier 1,Supermarket Type1,2821.6604
+Low Fat,0.143023967,Others,85.5908,OUT049,Medium,Tier 1,Supermarket Type1,1006.6896
+Regular,0.157637635,Meat,93.3094,OUT049,Medium,Tier 1,Supermarket Type1,3046.7008
+Low Fat,0.140953762,Health and Hygiene,38.448,OUT049,Medium,Tier 1,Supermarket Type1,1198.44
+Low Fat,0.12240856,Soft Drinks,156.7972,OUT049,Medium,Tier 1,Supermarket Type1,3739.1328
+Low Fat,0.231289285,Snack Foods,104.9622,OUT049,Medium,Tier 1,Supermarket Type1,1164.4842
+Regular,0.149680961,Fruits and Vegetables,121.9388,OUT049,Medium,Tier 1,Supermarket Type1,3962.8416
+Low Fat,0.103,Household,142.147,OUT049,Medium,Tier 1,Supermarket Type1,1717.764
+Regular,0.175990979,Snack Foods,121.6098,OUT049,Medium,Tier 1,Supermarket Type1,1566.6274
+Low Fat,0.108243282,Dairy,266.1884,OUT049,Medium,Tier 1,Supermarket Type1,3179.8608
+Low Fat,0.156455158,Soft Drinks,43.677,OUT049,Medium,Tier 1,Supermarket Type1,562.601
+Regular,0.231235131,Snack Foods,169.2816,OUT049,Medium,Tier 1,Supermarket Type1,1174.4712
+LF,0.103,Household,53.2614,OUT049,Medium,Tier 1,Supermarket Type1,552.614
+Low Fat,0.129912667,Frozen Foods,261.291,OUT049,Medium,Tier 1,Supermarket Type1,3418.883
+Regular,0.14463619,Frozen Foods,47.3376,OUT049,Medium,Tier 1,Supermarket Type1,1150.5024
+Low Fat,0.126988387,Household,104.5964,OUT049,Medium,Tier 1,Supermarket Type1,1262.3568
+Low Fat,0.120814518,Frozen Foods,159.8578,OUT049,Medium,Tier 1,Supermarket Type1,2246.4092
+Low Fat,0.185367244,Soft Drinks,187.753,OUT049,Medium,Tier 1,Supermarket Type1,1518.024
+Regular,0.133311951,Breads,247.4092,OUT049,Medium,Tier 1,Supermarket Type1,6972.2576
+Low Fat,0.11832563,Snack Foods,153.434,OUT049,Medium,Tier 1,Supermarket Type1,459.402
+Low Fat,0.27171476,Frozen Foods,47.306,OUT049,Medium,Tier 1,Supermarket Type1,1071.938
+Low Fat,0.129830586,Snack Foods,108.057,OUT049,Medium,Tier 1,Supermarket Type1,2087.283
+Regular,0.130386122,Snack Foods,259.2304,OUT049,Medium,Tier 1,Supermarket Type1,4649.9472
+Low Fat,0.15916476,Seafood,51.8982,OUT049,Medium,Tier 1,Supermarket Type1,473.3838
+Regular,0.215840108,Soft Drinks,122.0388,OUT049,Medium,Tier 1,Supermarket Type1,1238.388
+Low Fat,0.140639672,Fruits and Vegetables,175.6054,OUT049,Medium,Tier 1,Supermarket Type1,1050.6324
+Regular,0.210223632,Fruits and Vegetables,144.8786,OUT049,Medium,Tier 1,Supermarket Type1,3323.0078
+LF,0.234708682,Baking Goods,152.3024,OUT049,Medium,Tier 1,Supermarket Type1,1518.024
+Low Fat,0.157238448,Hard Drinks,75.4012,OUT049,Medium,Tier 1,Supermarket Type1,986.7156
+Regular,0.103,Snack Foods,193.482,OUT049,Medium,Tier 1,Supermarket Type1,2510.066
+Low Fat,0.246351652,Frozen Foods,62.0878,OUT049,Medium,Tier 1,Supermarket Type1,302.939
+Low Fat,0.137940979,Canned,177.3344,OUT049,Medium,Tier 1,Supermarket Type1,1605.9096
+Regular,0.133975716,Dairy,253.9672,OUT049,Medium,Tier 1,Supermarket Type1,3068.0064
+Regular,0.142101813,Baking Goods,208.8296,OUT049,Medium,Tier 1,Supermarket Type1,5400.9696
+Low Fat,0.140555348,Baking Goods,49.6034,OUT049,Medium,Tier 1,Supermarket Type1,972.068
+Regular,0.133992735,Fruits and Vegetables,124.3072,OUT049,Medium,Tier 1,Supermarket Type1,2695.1584
+Low Fat,0.175511335,Breakfast,177.437,OUT049,Medium,Tier 1,Supermarket Type1,3528.74
+Low Fat,0.128867353,Canned,264.6226,OUT049,Medium,Tier 1,Supermarket Type1,4757.8068
+Regular,0.144346469,Snack Foods,103.1332,OUT049,Medium,Tier 1,Supermarket Type1,820.2656
+Low Fat,0.211879177,Snack Foods,161.5578,OUT049,Medium,Tier 1,Supermarket Type1,320.9156
+Regular,0.123601791,Dairy,86.054,OUT049,Medium,Tier 1,Supermarket Type1,1038.648
+Regular,0.103,Meat,235.6248,OUT049,Medium,Tier 1,Supermarket Type1,1896.1984
+Low Fat,0.126876985,Dairy,97.4042,OUT049,Medium,Tier 1,Supermarket Type1,2281.6966
+Low Fat,0.118328106,Hard Drinks,107.5938,OUT049,Medium,Tier 1,Supermarket Type1,1822.2946
+Low Fat,0.161181585,Meat,154.4314,OUT049,Medium,Tier 1,Supermarket Type1,2326.971
+Low Fat,0.149159928,Health and Hygiene,152.3682,OUT049,Medium,Tier 1,Supermarket Type1,1677.1502
+Low Fat,0.141014104,Frozen Foods,62.351,OUT049,Medium,Tier 1,Supermarket Type1,822.263
+Low Fat,0.129882496,Meat,126.302,OUT049,Medium,Tier 1,Supermarket Type1,3036.048
+Regular,0.139083537,Frozen Foods,175.4712,OUT049,Medium,Tier 1,Supermarket Type1,2988.1104
+Regular,0.108539114,Fruits and Vegetables,167.879,OUT049,Medium,Tier 1,Supermarket Type1,4074.696
+low fat,0.132054046,Household,144.6786,OUT049,Medium,Tier 1,Supermarket Type1,2889.572
+Regular,0.110551607,Dairy,145.8102,OUT049,Medium,Tier 1,Supermarket Type1,1895.5326
+Regular,0.150503318,Frozen Foods,244.6144,OUT049,Medium,Tier 1,Supermarket Type1,3185.1872
+Low Fat,0.190604647,Breads,196.9794,OUT049,Medium,Tier 1,Supermarket Type1,1560.6352
+Low Fat,0.131461453,Dairy,152.234,OUT049,Medium,Tier 1,Supermarket Type1,5053.422
+Low Fat,0.141578846,Dairy,56.1272,OUT049,Medium,Tier 1,Supermarket Type1,671.1264
+Regular,0.169279832,Frozen Foods,147.876,OUT049,Medium,Tier 1,Supermarket Type1,4540.756
+Low Fat,0.150791878,Household,180.766,OUT049,Medium,Tier 1,Supermarket Type1,5033.448
+Low Fat,0.124757269,Breads,165.0184,OUT049,Medium,Tier 1,Supermarket Type1,3302.368
+LF,0.116658248,Frozen Foods,256.3304,OUT049,Medium,Tier 1,Supermarket Type1,6199.9296
+Low Fat,0.12250565,Others,163.921,OUT049,Medium,Tier 1,Supermarket Type1,2446.815
+Regular,0.120887238,Snack Foods,79.496,OUT049,Medium,Tier 1,Supermarket Type1,1438.128
+Low Fat,0.177460855,Snack Foods,253.6724,OUT049,Medium,Tier 1,Supermarket Type1,5033.448
+Regular,0.146968652,Starchy Foods,57.6904,OUT049,Medium,Tier 1,Supermarket Type1,585.904
+LF,0.126179181,Others,154.034,OUT049,Medium,Tier 1,Supermarket Type1,2450.144
+Regular,0.231126825,Soft Drinks,183.6924,OUT049,Medium,Tier 1,Supermarket Type1,1295.6468
+Low Fat,0.164154604,Breakfast,165.3526,OUT049,Medium,Tier 1,Supermarket Type1,1151.1682
+Regular,0.209918052,Baking Goods,183.5634,OUT049,Medium,Tier 1,Supermarket Type1,4725.8484
+Low Fat,0.103,Health and Hygiene,158.0604,OUT049,Medium,Tier 1,Supermarket Type1,3327.6684
+Low Fat,0.118131684,Frozen Foods,83.025,OUT049,Medium,Tier 1,Supermarket Type1,1414.825
+Low Fat,0.134151714,Fruits and Vegetables,158.7578,OUT049,Medium,Tier 1,Supermarket Type1,2085.9514
+Regular,0.115477512,Meat,197.111,OUT049,Medium,Tier 1,Supermarket Type1,785.644
+Low Fat,0.173356805,Hard Drinks,36.8532,OUT049,Medium,Tier 1,Supermarket Type1,755.0172
+Low Fat,0.117577695,Soft Drinks,147.2102,OUT049,Medium,Tier 1,Supermarket Type1,1895.5326
+Low Fat,0.201036903,Canned,51.5324,OUT049,Medium,Tier 1,Supermarket Type1,882.8508
+Low Fat,0.151134591,Household,107.7622,OUT049,Medium,Tier 1,Supermarket Type1,529.311
+Regular,0.14158813,Snack Foods,144.6102,OUT049,Medium,Tier 1,Supermarket Type1,3353.6346
+Low Fat,0.122402371,Hard Drinks,38.7164,OUT049,Medium,Tier 1,Supermarket Type1,579.246
+Regular,0.184794766,Breads,173.6054,OUT049,Medium,Tier 1,Supermarket Type1,700.4216
+Low Fat,0.206146658,Fruits and Vegetables,117.2466,OUT049,Medium,Tier 1,Supermarket Type1,2239.0854
+Low Fat,0.134097948,Fruits and Vegetables,103.899,OUT049,Medium,Tier 1,Supermarket Type1,1960.781
+Low Fat,0.124639678,Health and Hygiene,150.1708,OUT049,Medium,Tier 1,Supermarket Type1,2708.4744
+Low Fat,0.266233667,Hard Drinks,144.6444,OUT049,Medium,Tier 1,Supermarket Type1,2467.4548
+Regular,0.103,Frozen Foods,155.263,OUT049,Medium,Tier 1,Supermarket Type1,625.852
+Regular,0.145542484,Frozen Foods,161.921,OUT049,Medium,Tier 1,Supermarket Type1,2120.573
+Regular,0.103,Frozen Foods,228.4668,OUT049,Medium,Tier 1,Supermarket Type1,3916.2356
+Low Fat,0.158476238,Dairy,196.8768,OUT049,Medium,Tier 1,Supermarket Type1,1182.4608
+Low Fat,0.243821917,Hard Drinks,252.9382,OUT049,Medium,Tier 1,Supermarket Type1,2775.7202
+Low Fat,0.196170838,Household,127.3652,OUT049,Medium,Tier 1,Supermarket Type1,1549.9824
+Regular,0.168165046,Dairy,79.3986,OUT049,Medium,Tier 1,Supermarket Type1,856.8846
+Regular,0.152051717,Fruits and Vegetables,152.4682,OUT049,Medium,Tier 1,Supermarket Type1,2439.4912
+Low Fat,0.15710964,Seafood,195.0768,OUT049,Medium,Tier 1,Supermarket Type1,1970.768
+Regular,0.151761223,Starchy Foods,186.5898,OUT049,Medium,Tier 1,Supermarket Type1,5238.5144
+Low Fat,0.242669224,Frozen Foods,147.6392,OUT049,Medium,Tier 1,Supermarket Type1,1938.8096
+Low Fat,0.127926013,Household,149.9392,OUT049,Medium,Tier 1,Supermarket Type1,1491.392
+Low Fat,0.240410256,Hard Drinks,161.7578,OUT049,Medium,Tier 1,Supermarket Type1,1604.578
+Regular,0.137753686,Canned,141.5496,OUT049,Medium,Tier 1,Supermarket Type1,1976.0944
+Low Fat,0.138247642,Health and Hygiene,84.7224,OUT049,Medium,Tier 1,Supermarket Type1,1619.2256
+Regular,0.161918844,Fruits and Vegetables,169.7448,OUT049,Medium,Tier 1,Supermarket Type1,3238.4512
+Low Fat,0.139016619,Snack Foods,186.3924,OUT049,Medium,Tier 1,Supermarket Type1,1295.6468
+Regular,0.23253868,Seafood,240.288,OUT049,Medium,Tier 1,Supermarket Type1,2396.88
+Low Fat,0.159884225,Dairy,231.9642,OUT049,Medium,Tier 1,Supermarket Type1,3020.7346
+Low Fat,0.251163564,Household,232.7616,OUT049,Medium,Tier 1,Supermarket Type1,1874.8928
+Low Fat,0.112425158,Baking Goods,74.838,OUT049,Medium,Tier 1,Supermarket Type1,1537.998
+Low Fat,0.13695415,Soft Drinks,56.4614,OUT049,Medium,Tier 1,Supermarket Type1,773.6596
+Low Fat,0.183417724,Household,48.8718,OUT049,Medium,Tier 1,Supermarket Type1,425.4462
+Regular,0.170607749,Baking Goods,188.024,OUT049,Medium,Tier 1,Supermarket Type1,2796.36
+Low Fat,0.144951439,Soft Drinks,32.49,OUT049,Medium,Tier 1,Supermarket Type1,865.54
+Regular,0.121591464,Snack Foods,112.9544,OUT049,Medium,Tier 1,Supermarket Type1,1342.2528
+Regular,0.103,Baking Goods,194.411,OUT049,Medium,Tier 1,Supermarket Type1,5106.686
+Low Fat,0.134994534,Canned,114.3492,OUT049,Medium,Tier 1,Supermarket Type1,1853.5872
+Regular,0.124490911,Fruits and Vegetables,122.1098,OUT049,Medium,Tier 1,Supermarket Type1,2892.2352
+Low Fat,0.148928229,Frozen Foods,138.118,OUT049,Medium,Tier 1,Supermarket Type1,1957.452
+Low Fat,0.170039526,Snack Foods,178.337,OUT049,Medium,Tier 1,Supermarket Type1,1411.496
+Regular,0.126358738,Dairy,184.4608,OUT049,Medium,Tier 1,Supermarket Type1,4042.7376
+Low Fat,0.11704119,Frozen Foods,38.419,OUT049,Medium,Tier 1,Supermarket Type1,476.047
+Regular,0.144538713,Frozen Foods,93.1804,OUT049,Medium,Tier 1,Supermarket Type1,1378.206
+Low Fat,0.115467648,Fruits and Vegetables,188.1872,OUT049,Medium,Tier 1,Supermarket Type1,2458.1336
+Regular,0.137410585,Frozen Foods,111.3544,OUT049,Medium,Tier 1,Supermarket Type1,1342.2528
+Regular,0.123750867,Breakfast,128.7994,OUT049,Medium,Tier 1,Supermarket Type1,1927.491
+Regular,0.156930934,Fruits and Vegetables,87.3856,OUT049,Medium,Tier 1,Supermarket Type1,878.856
+Low Fat,0.205670882,Dairy,228.6352,OUT049,Medium,Tier 1,Supermarket Type1,3435.528
+Low Fat,0.129225693,Household,119.0098,OUT049,Medium,Tier 1,Supermarket Type1,2530.7058
+LF,0.286688161,Fruits and Vegetables,100.27,OUT049,Medium,Tier 1,Supermarket Type1,998.7
+Regular,0.245910689,Fruits and Vegetables,89.6514,OUT049,Medium,Tier 1,Supermarket Type1,1859.5794
+Regular,0.220667492,Snack Foods,159.5578,OUT049,Medium,Tier 1,Supermarket Type1,1283.6624
+Regular,0.209492562,Fruits and Vegetables,176.3396,OUT049,Medium,Tier 1,Supermarket Type1,1395.5168
+Low Fat,0.19295645,Frozen Foods,217.1192,OUT049,Medium,Tier 1,Supermarket Type1,3235.788
+Low Fat,0.181290271,Canned,93.1804,OUT049,Medium,Tier 1,Supermarket Type1,1194.4452
+Low Fat,0.149447328,Breads,121.5414,OUT049,Medium,Tier 1,Supermarket Type1,2436.828
+Low Fat,0.175178679,Household,262.9594,OUT049,Medium,Tier 1,Supermarket Type1,5233.188
+Low Fat,0.160021156,Baking Goods,106.8622,OUT049,Medium,Tier 1,Supermarket Type1,2011.3818
+Low Fat,0.202479703,Household,44.906,OUT049,Medium,Tier 1,Supermarket Type1,652.484
+Low Fat,0.113454459,Canned,115.6808,OUT049,Medium,Tier 1,Supermarket Type1,1406.1696
+Low Fat,0.184914677,Soft Drinks,120.344,OUT049,Medium,Tier 1,Supermarket Type1,3835.008
+Low Fat,0.174010513,Fruits and Vegetables,190.9162,OUT049,Medium,Tier 1,Supermarket Type1,5195.2374
+Low Fat,0.145246575,Dairy,54.2982,OUT049,Medium,Tier 1,Supermarket Type1,1104.5622
+Low Fat,0.103,Canned,178.2686,OUT049,Medium,Tier 1,Supermarket Type1,1955.4546
+Low Fat,0.103,Canned,105.628,OUT049,Medium,Tier 1,Supermarket Type1,1384.864
+Low Fat,0.178695552,Dairy,168.4158,OUT049,Medium,Tier 1,Supermarket Type1,1504.0422
+Regular,0.228419157,Breakfast,40.048,OUT049,Medium,Tier 1,Supermarket Type1,399.48
+Low Fat,0.114557563,Dairy,165.3526,OUT049,Medium,Tier 1,Supermarket Type1,3453.5046
+Low Fat,0.197308058,Household,251.8698,OUT049,Medium,Tier 1,Supermarket Type1,3551.3772
+Regular,0.117234595,Snack Foods,190.2872,OUT049,Medium,Tier 1,Supermarket Type1,4727.18
+Regular,0.181526225,Snack Foods,173.5422,OUT049,Medium,Tier 1,Supermarket Type1,5000.8238
+Regular,0.109335942,Baking Goods,121.8098,OUT049,Medium,Tier 1,Supermarket Type1,2048.6666
+Low Fat,0.103,Baking Goods,84.654,OUT049,Medium,Tier 1,Supermarket Type1,1211.756
+Regular,0.111204465,Canned,99.8674,OUT049,Medium,Tier 1,Supermarket Type1,2342.9502
+Regular,0.112954237,Snack Foods,158.263,OUT049,Medium,Tier 1,Supermarket Type1,2659.871
+Low Fat,0.174540443,Snack Foods,210.6612,OUT049,Medium,Tier 1,Supermarket Type1,2508.7344
+Low Fat,0.161192802,Dairy,246.9802,OUT049,Medium,Tier 1,Supermarket Type1,5896.3248
+Regular,0.125976493,Baking Goods,240.3538,OUT049,Medium,Tier 1,Supermarket Type1,4086.0146
+Low Fat,0.140967687,Starchy Foods,125.6046,OUT049,Medium,Tier 1,Supermarket Type1,1618.5598
+Low Fat,0.136942546,Snack Foods,213.5902,OUT049,Medium,Tier 1,Supermarket Type1,4460.1942
+Regular,0.243458316,Seafood,169.7764,OUT049,Medium,Tier 1,Supermarket Type1,3263.7516
+Low Fat,0.123952705,Hard Drinks,143.5128,OUT049,Medium,Tier 1,Supermarket Type1,2444.8176
+Low Fat,0.128325897,Health and Hygiene,150.9024,OUT049,Medium,Tier 1,Supermarket Type1,3795.06
+Low Fat,0.190310672,Dairy,95.541,OUT049,Medium,Tier 1,Supermarket Type1,1544.656
+Low Fat,0.125639195,Fruits and Vegetables,179.7318,OUT049,Medium,Tier 1,Supermarket Type1,2165.1816
+Low Fat,0.137726222,Household,125.602,OUT049,Medium,Tier 1,Supermarket Type1,3036.048
+Regular,0.161918844,Fruits and Vegetables,191.653,OUT049,Medium,Tier 1,Supermarket Type1,5313.084
+Low Fat,0.164159246,Soft Drinks,92.5436,OUT049,Medium,Tier 1,Supermarket Type1,1607.2412
+Low Fat,0.172653585,Health and Hygiene,266.2884,OUT049,Medium,Tier 1,Supermarket Type1,2914.8724
+Low Fat,0.143434372,Household,244.3144,OUT049,Medium,Tier 1,Supermarket Type1,5635.3312
+Low Fat,0.182094835,Soft Drinks,114.386,OUT049,Medium,Tier 1,Supermarket Type1,1018.674
+Regular,0.169400129,Fruits and Vegetables,250.1092,OUT049,Medium,Tier 1,Supermarket Type1,5727.2116
+Low Fat,0.118900971,Snack Foods,163.821,OUT049,Medium,Tier 1,Supermarket Type1,1794.331
+Low Fat,0.256857402,Canned,76.3986,OUT049,Medium,Tier 1,Supermarket Type1,778.986
+Low Fat,0.184290366,Fruits and Vegetables,147.3734,OUT049,Medium,Tier 1,Supermarket Type1,2524.0478
+Low Fat,0.158514919,Household,112.5518,OUT049,Medium,Tier 1,Supermarket Type1,341.5554
+Low Fat,0.231405328,Breads,156.4314,OUT049,Medium,Tier 1,Supermarket Type1,2326.971
+Low Fat,0.145276746,Household,108.4938,OUT049,Medium,Tier 1,Supermarket Type1,1500.7132
+Regular,0.238306012,Starchy Foods,183.7924,OUT049,Medium,Tier 1,Supermarket Type1,2221.1088
+Low Fat,0.12428304,Soft Drinks,153.5024,OUT049,Medium,Tier 1,Supermarket Type1,2428.8384
+Low Fat,0.115167793,Fruits and Vegetables,37.4848,OUT049,Medium,Tier 1,Supermarket Type1,111.8544
+Low Fat,0.153369191,Canned,117.2124,OUT049,Medium,Tier 1,Supermarket Type1,1422.1488
+Low Fat,0.169829875,Others,185.5924,OUT049,Medium,Tier 1,Supermarket Type1,3146.5708
+LF,0.167464147,Snack Foods,255.7646,OUT049,Medium,Tier 1,Supermarket Type1,5410.9566
+Regular,0.103,Dairy,96.7752,OUT049,Medium,Tier 1,Supermarket Type1,1342.2528
+Low Fat,0.184168135,Meat,190.5846,OUT049,Medium,Tier 1,Supermarket Type1,3630.6074
+Low Fat,0.178675438,Hard Drinks,53.3614,OUT049,Medium,Tier 1,Supermarket Type1,331.5684
+Low Fat,0.113381661,Household,207.8954,OUT049,Medium,Tier 1,Supermarket Type1,2292.3494
+Low Fat,0.154928034,Household,151.4024,OUT049,Medium,Tier 1,Supermarket Type1,1973.4312
+Low Fat,0.222570595,Frozen Foods,249.7434,OUT049,Medium,Tier 1,Supermarket Type1,4221.8378
+Regular,0.103,Starchy Foods,63.6168,OUT049,Medium,Tier 1,Supermarket Type1,1342.2528
+Regular,0.225065518,Meat,103.3674,OUT049,Medium,Tier 1,Supermarket Type1,2546.685
+Low Fat,0.239512858,Snack Foods,128.7678,OUT049,Medium,Tier 1,Supermarket Type1,3052.0272
+Low Fat,0.181034976,Baking Goods,178.066,OUT049,Medium,Tier 1,Supermarket Type1,3954.852
+Regular,0.213202066,Frozen Foods,39.7506,OUT049,Medium,Tier 1,Supermarket Type1,721.0614
+Low Fat,0.11858456,Fruits and Vegetables,185.1266,OUT049,Medium,Tier 1,Supermarket Type1,4795.0916
+Low Fat,0.152942926,Dairy,82.425,OUT049,Medium,Tier 1,Supermarket Type1,1414.825
+Regular,0.141817121,Fruits and Vegetables,262.6252,OUT049,Medium,Tier 1,Supermarket Type1,524.6504
+reg,0.177847665,Breads,78.8986,OUT049,Medium,Tier 1,Supermarket Type1,623.1888
+Regular,0.151010812,Fruits and Vegetables,187.7556,OUT049,Medium,Tier 1,Supermarket Type1,3004.0896
+Low Fat,0.229579586,Canned,112.2886,OUT049,Medium,Tier 1,Supermarket Type1,2557.3378
+Low Fat,0.26634971,Health and Hygiene,45.1086,OUT049,Medium,Tier 1,Supermarket Type1,669.129
+Regular,0.212265987,Soft Drinks,42.3112,OUT049,Medium,Tier 1,Supermarket Type1,980.0576
+Low Fat,0.196159233,Household,55.7956,OUT049,Medium,Tier 1,Supermarket Type1,1037.3164
+Regular,0.120658634,Starchy Foods,240.1538,OUT049,Medium,Tier 1,Supermarket Type1,1442.1228
+Low Fat,0.129722744,Canned,59.2246,OUT049,Medium,Tier 1,Supermarket Type1,984.7182
+Regular,0.260075658,Dairy,240.5538,OUT049,Medium,Tier 1,Supermarket Type1,3845.6608
+Low Fat,0.20534983,Fruits and Vegetables,55.0298,OUT049,Medium,Tier 1,Supermarket Type1,539.298
+Regular,0.178868843,Baking Goods,261.7568,OUT049,Medium,Tier 1,Supermarket Type1,1845.5976
+Regular,0.155493162,Frozen Foods,113.9176,OUT049,Medium,Tier 1,Supermarket Type1,2519.3872
+Low Fat,0.146831721,Snack Foods,184.195,OUT049,Medium,Tier 1,Supermarket Type1,2746.425
+Regular,0.103,Starchy Foods,173.6738,OUT049,Medium,Tier 1,Supermarket Type1,2954.1546
+Low Fat,0.158075504,Health and Hygiene,33.3874,OUT049,Medium,Tier 1,Supermarket Type1,282.2992
+Regular,0.184879864,Fruits and Vegetables,91.7488,OUT049,Medium,Tier 1,Supermarket Type1,1358.232
+Regular,0.14228284,Snack Foods,94.641,OUT049,Medium,Tier 1,Supermarket Type1,2799.689
+LF,0.280545624,Household,172.4422,OUT049,Medium,Tier 1,Supermarket Type1,3621.2862
+Low Fat,0.161437653,Dairy,143.0128,OUT049,Medium,Tier 1,Supermarket Type1,1150.5024
+Regular,0.141011783,Snack Foods,89.6856,OUT049,Medium,Tier 1,Supermarket Type1,703.0848
+Low Fat,0.144291929,Household,130.131,OUT049,Medium,Tier 1,Supermarket Type1,1038.648
+Low Fat,0.108557062,Frozen Foods,122.1414,OUT049,Medium,Tier 1,Supermarket Type1,2924.1936
+Regular,0.190542757,Fruits and Vegetables,219.8456,OUT049,Medium,Tier 1,Supermarket Type1,6189.2768
+Low Fat,0.223731024,Fruits and Vegetables,46.506,OUT049,Medium,Tier 1,Supermarket Type1,652.484
+Low Fat,0.142207025,Household,116.1176,OUT049,Medium,Tier 1,Supermarket Type1,2633.9048
+Low Fat,0.257228739,Starchy Foods,107.3938,OUT049,Medium,Tier 1,Supermarket Type1,750.3566
+Low Fat,0.120065268,Health and Hygiene,109.5228,OUT049,Medium,Tier 1,Supermarket Type1,1768.3648
+Low Fat,0.109770252,Others,124.473,OUT049,Medium,Tier 1,Supermarket Type1,1231.73
+Low Fat,0.177522745,Household,228.801,OUT049,Medium,Tier 1,Supermarket Type1,3215.814
+Low Fat,0.197366079,Soft Drinks,190.9872,OUT049,Medium,Tier 1,Supermarket Type1,2836.308
+Low Fat,0.161485617,Snack Foods,44.7744,OUT049,Medium,Tier 1,Supermarket Type1,679.116
+Low Fat,0.195811105,Household,159.7604,OUT049,Medium,Tier 1,Supermarket Type1,4119.9704
+Regular,0.20035225,Snack Foods,160.7262,OUT049,Medium,Tier 1,Supermarket Type1,1750.3882
+Low Fat,0.117602837,Fruits and Vegetables,158.6262,OUT049,Medium,Tier 1,Supermarket Type1,3819.0288
+Regular,0.117649641,Canned,207.3638,OUT049,Medium,Tier 1,Supermarket Type1,5797.7864
+Low Fat,0.138999599,Soft Drinks,41.5138,OUT049,Medium,Tier 1,Supermarket Type1,162.4552
+Low Fat,0.117296484,Household,53.7614,OUT049,Medium,Tier 1,Supermarket Type1,1436.7964
+Regular,0.103,Dairy,57.8562,OUT049,Medium,Tier 1,Supermarket Type1,711.0744
+Low Fat,0.176397129,Soft Drinks,91.912,OUT049,Medium,Tier 1,Supermarket Type1,2609.936
+Regular,0.13276887,Dairy,145.4786,OUT049,Medium,Tier 1,Supermarket Type1,1300.3074
+Low Fat,0.17025846,Household,115.186,OUT049,Medium,Tier 1,Supermarket Type1,2490.092
+Low Fat,0.188085743,Baking Goods,105.128,OUT049,Medium,Tier 1,Supermarket Type1,1065.28
+Low Fat,0.147730667,Household,245.1802,OUT049,Medium,Tier 1,Supermarket Type1,2456.802
+Regular,0.169833743,Frozen Foods,257.2962,OUT049,Medium,Tier 1,Supermarket Type1,2330.9658
+Regular,0.144837331,Baking Goods,161.8868,OUT049,Medium,Tier 1,Supermarket Type1,5077.3908
+Low Fat,0.253801606,Soft Drinks,48.7692,OUT049,Medium,Tier 1,Supermarket Type1,1231.73
+Low Fat,0.224438886,Snack Foods,196.1452,OUT049,Medium,Tier 1,Supermarket Type1,1565.9616
+Regular,0.166916425,Fruits and Vegetables,117.1492,OUT049,Medium,Tier 1,Supermarket Type1,2780.3808
+Regular,0.127892129,Soft Drinks,37.8822,OUT049,Medium,Tier 1,Supermarket Type1,589.233
+Regular,0.131765486,Canned,115.3492,OUT049,Medium,Tier 1,Supermarket Type1,1274.3412
+Low Fat,0.129182758,Snack Foods,253.6356,OUT049,Medium,Tier 1,Supermarket Type1,5086.712
+Low Fat,0.174354774,Starchy Foods,125.702,OUT049,Medium,Tier 1,Supermarket Type1,2530.04
+Low Fat,0.135637373,Health and Hygiene,191.6162,OUT049,Medium,Tier 1,Supermarket Type1,3463.4916
+Regular,0.128409912,Baking Goods,83.2934,OUT049,Medium,Tier 1,Supermarket Type1,1883.5482
+Low Fat,0.187885375,Frozen Foods,39.2796,OUT049,Medium,Tier 1,Supermarket Type1,701.7532
+Low Fat,0.125879017,Health and Hygiene,176.0686,OUT049,Medium,Tier 1,Supermarket Type1,533.3058
+Low Fat,0.179975118,Household,116.6492,OUT049,Medium,Tier 1,Supermarket Type1,2664.5316
+Regular,0.11899013,Snack Foods,228.8352,OUT049,Medium,Tier 1,Supermarket Type1,4351.6688
+Low Fat,0.16828457,Dairy,145.076,OUT049,Medium,Tier 1,Supermarket Type1,1904.188
+Low Fat,0.230647181,Canned,207.927,OUT049,Medium,Tier 1,Supermarket Type1,2097.27
+Regular,0.210223632,Dairy,223.5772,OUT049,Medium,Tier 1,Supermarket Type1,2668.5264
+Low Fat,0.127264569,Dairy,46.5718,OUT049,Medium,Tier 1,Supermarket Type1,1607.2412
+Low Fat,0.14488955,Household,255.9014,OUT049,Medium,Tier 1,Supermarket Type1,3315.0182
+Regular,0.247241314,Dairy,239.4222,OUT049,Medium,Tier 1,Supermarket Type1,3346.3108
+Regular,0.149844194,Fruits and Vegetables,174.2422,OUT049,Medium,Tier 1,Supermarket Type1,1379.5376
+Regular,0.103,Fruits and Vegetables,156.4946,OUT049,Medium,Tier 1,Supermarket Type1,2998.0974
+Low Fat,0.158213208,Fruits and Vegetables,129.5994,OUT049,Medium,Tier 1,Supermarket Type1,642.497
+Regular,0.222361718,Dairy,231.63,OUT049,Medium,Tier 1,Supermarket Type1,2563.33
+Regular,0.226307177,Snack Foods,93.5436,OUT049,Medium,Tier 1,Supermarket Type1,283.6308
+Low Fat,0.216072194,Soft Drinks,35.8848,OUT049,Medium,Tier 1,Supermarket Type1,596.5568
+Low Fat,0.174103348,Household,75.4696,OUT049,Medium,Tier 1,Supermarket Type1,1416.8224
+Regular,0.261715731,Meat,157.2946,OUT049,Medium,Tier 1,Supermarket Type1,1577.946
+Low Fat,0.14198577,Soft Drinks,34.619,OUT049,Medium,Tier 1,Supermarket Type1,732.38
+Low Fat,0.110468056,Household,186.9556,OUT049,Medium,Tier 1,Supermarket Type1,3379.6008
+Regular,0.123442889,Meat,98.0042,OUT049,Medium,Tier 1,Supermarket Type1,1587.2672
+Low Fat,0.200862839,Health and Hygiene,239.3196,OUT049,Medium,Tier 1,Supermarket Type1,3615.294
+Low Fat,0.200367722,Dairy,89.3856,OUT049,Medium,Tier 1,Supermarket Type1,878.856
+Regular,0.203555034,Baking Goods,88.8856,OUT049,Medium,Tier 1,Supermarket Type1,439.428
+Regular,0.135227432,Canned,186.824,OUT049,Medium,Tier 1,Supermarket Type1,1864.24
+Low Fat,0.21447467,Others,108.0912,OUT049,Medium,Tier 1,Supermarket Type1,1637.868
+Regular,0.125954444,Fruits and Vegetables,184.495,OUT049,Medium,Tier 1,Supermarket Type1,4028.09
+Regular,0.245759833,Breads,159.3578,OUT049,Medium,Tier 1,Supermarket Type1,3048.6982
+Regular,0.148052492,Snack Foods,102.6016,OUT049,Medium,Tier 1,Supermarket Type1,3137.2496
+Low Fat,0.251612263,Fruits and Vegetables,104.528,OUT049,Medium,Tier 1,Supermarket Type1,1384.864
+Low Fat,0.244862435,Canned,171.0132,OUT049,Medium,Tier 1,Supermarket Type1,4396.9432
+Low Fat,0.277644552,Fruits and Vegetables,113.2834,OUT049,Medium,Tier 1,Supermarket Type1,1727.751
+Low Fat,0.228964559,Health and Hygiene,124.773,OUT049,Medium,Tier 1,Supermarket Type1,2956.152
+Low Fat,0.218064263,Frozen Foods,58.6246,OUT049,Medium,Tier 1,Supermarket Type1,868.869
+Regular,0.13260641,Baking Goods,65.4142,OUT049,Medium,Tier 1,Supermarket Type1,1516.0266
+Regular,0.169352552,Breakfast,181.2292,OUT049,Medium,Tier 1,Supermarket Type1,4195.8716
+LF,0.133174246,Canned,76.667,OUT049,Medium,Tier 1,Supermarket Type1,1531.34
+Low Fat,0.128169703,Health and Hygiene,150.4734,OUT049,Medium,Tier 1,Supermarket Type1,1187.7872
+Regular,0.213163385,Fruits and Vegetables,83.6592,OUT049,Medium,Tier 1,Supermarket Type1,1320.9472
+Low Fat,0.229440335,Household,125.2362,OUT049,Medium,Tier 1,Supermarket Type1,1384.1982
+Low Fat,0.156305463,Fruits and Vegetables,58.193,OUT049,Medium,Tier 1,Supermarket Type1,848.895
+Low Fat,0.134200065,Household,174.7054,OUT049,Medium,Tier 1,Supermarket Type1,6303.7944
+Low Fat,0.115673238,Household,121.5414,OUT049,Medium,Tier 1,Supermarket Type1,4020.7662
+Low Fat,0.114106465,Breads,42.7454,OUT049,Medium,Tier 1,Supermarket Type1,419.454
+Regular,0.134494041,Canned,98.87,OUT049,Medium,Tier 1,Supermarket Type1,2197.14
+Low Fat,0.125099982,Dairy,110.1886,OUT049,Medium,Tier 1,Supermarket Type1,1334.2632
+Low Fat,0.132117482,Household,123.0414,OUT049,Medium,Tier 1,Supermarket Type1,1583.9382
+Low Fat,0.142071642,Snack Foods,145.3418,OUT049,Medium,Tier 1,Supermarket Type1,882.8508
+Regular,0.103,Soft Drinks,43.0086,OUT049,Medium,Tier 1,Supermarket Type1,713.7376
+Low Fat,0.113055503,Snack Foods,163.7552,OUT049,Medium,Tier 1,Supermarket Type1,1787.0072
+Regular,0.196909644,Snack Foods,213.7244,OUT049,Medium,Tier 1,Supermarket Type1,4022.7636
+Regular,0.230066966,Frozen Foods,76.5354,OUT049,Medium,Tier 1,Supermarket Type1,1655.1788
+Low Fat,0.103,Dairy,231.9668,OUT049,Medium,Tier 1,Supermarket Type1,1842.9344
+Low Fat,0.135306341,Health and Hygiene,166.3526,OUT049,Medium,Tier 1,Supermarket Type1,986.7156
+Low Fat,0.158015935,Baking Goods,194.3452,OUT049,Medium,Tier 1,Supermarket Type1,2740.4328
+Low Fat,0.21650542,Soft Drinks,186.8924,OUT049,Medium,Tier 1,Supermarket Type1,2961.4784
+Low Fat,0.127369007,Household,40.2454,OUT049,Medium,Tier 1,Supermarket Type1,922.7988
+reg,0.197037291,Fruits and Vegetables,62.3194,OUT049,Medium,Tier 1,Supermarket Type1,495.3552
+Low Fat,0.103,Soft Drinks,166.5158,OUT049,Medium,Tier 1,Supermarket Type1,3509.4318
+Low Fat,0.192144149,Canned,144.9786,OUT049,Medium,Tier 1,Supermarket Type1,1011.3502
+Regular,0.164270647,Breakfast,56.7588,OUT049,Medium,Tier 1,Supermarket Type1,343.5528
+Low Fat,0.152381666,Snack Foods,193.0478,OUT049,Medium,Tier 1,Supermarket Type1,1549.9824
+Low Fat,0.195927148,Household,249.5066,OUT049,Medium,Tier 1,Supermarket Type1,4267.1122
+Low Fat,0.135924463,Baking Goods,107.2938,OUT049,Medium,Tier 1,Supermarket Type1,2143.876
+Regular,0.119679232,Frozen Foods,96.3726,OUT049,Medium,Tier 1,Supermarket Type1,2740.4328
+Regular,0.103,Snack Foods,110.0544,OUT049,Medium,Tier 1,Supermarket Type1,2572.6512
+Low Fat,0.131566433,Baking Goods,193.0136,OUT049,Medium,Tier 1,Supermarket Type1,4860.34
+Regular,0.20242555,Frozen Foods,87.0856,OUT049,Medium,Tier 1,Supermarket Type1,527.3136
+Low Fat,0.165384659,Starchy Foods,34.6532,OUT049,Medium,Tier 1,Supermarket Type1,719.064
+Low Fat,0.144802518,Health and Hygiene,34.8216,OUT049,Medium,Tier 1,Supermarket Type1,311.5944
+Regular,0.143268044,Canned,191.453,OUT049,Medium,Tier 1,Supermarket Type1,1707.777
+Low Fat,0.18084544,Snack Foods,260.5962,OUT049,Medium,Tier 1,Supermarket Type1,3884.943
+Regular,0.14574788,Meat,183.695,OUT049,Medium,Tier 1,Supermarket Type1,2929.52
+Low Fat,0.14872322,Canned,222.1456,OUT049,Medium,Tier 1,Supermarket Type1,5747.1856
+Regular,0.249527359,Seafood,147.905,OUT049,Medium,Tier 1,Supermarket Type1,2247.075
+Regular,0.128961116,Snack Foods,80.4302,OUT049,Medium,Tier 1,Supermarket Type1,316.9208
+Regular,0.149960237,Baking Goods,111.857,OUT049,Medium,Tier 1,Supermarket Type1,2966.139
+Low Fat,0.219723677,Snack Foods,182.4266,OUT049,Medium,Tier 1,Supermarket Type1,5163.9448
+Regular,0.141560279,Fruits and Vegetables,109.857,OUT049,Medium,Tier 1,Supermarket Type1,1208.427
+Low Fat,0.103,Health and Hygiene,182.1608,OUT049,Medium,Tier 1,Supermarket Type1,3123.9336
+Low Fat,0.145716162,Canned,257.833,OUT049,Medium,Tier 1,Supermarket Type1,3332.329
+Regular,0.232016487,Starchy Foods,98.4068,OUT049,Medium,Tier 1,Supermarket Type1,1846.9292
+Regular,0.282355893,Meat,94.1752,OUT049,Medium,Tier 1,Supermarket Type1,575.2512
+Regular,0.135208865,Canned,154.9972,OUT049,Medium,Tier 1,Supermarket Type1,3739.1328
+Low Fat,0.238944247,Hard Drinks,172.0422,OUT049,Medium,Tier 1,Supermarket Type1,2586.633
+Low Fat,0.184260969,Meat,221.7798,OUT049,Medium,Tier 1,Supermarket Type1,3085.3172
+Low Fat,0.202274694,Snack Foods,104.528,OUT049,Medium,Tier 1,Supermarket Type1,852.224
+Regular,0.15223932,Fruits and Vegetables,144.4102,OUT049,Medium,Tier 1,Supermarket Type1,4374.306
+Low Fat,0.15637973,Frozen Foods,56.7904,OUT049,Medium,Tier 1,Supermarket Type1,1113.2176
+Low Fat,0.125602061,Frozen Foods,98.1068,OUT049,Medium,Tier 1,Supermarket Type1,1458.102
+Low Fat,0.115737719,Meat,38.5822,OUT049,Medium,Tier 1,Supermarket Type1,353.5398
+LF,0.114305479,Household,235.5248,OUT049,Medium,Tier 1,Supermarket Type1,4740.496
+Low Fat,0.1388031,Fruits and Vegetables,130.3284,OUT049,Medium,Tier 1,Supermarket Type1,2504.7396
+Low Fat,0.140955309,Meat,62.8826,OUT049,Medium,Tier 1,Supermarket Type1,710.4086
+Low Fat,0.147566659,Dairy,88.5856,OUT049,Medium,Tier 1,Supermarket Type1,703.0848
+Low Fat,0.155061483,Fruits and Vegetables,76.7986,OUT049,Medium,Tier 1,Supermarket Type1,1324.2762
+Regular,0.138561344,Snack Foods,112.1518,OUT049,Medium,Tier 1,Supermarket Type1,1821.6288
+Regular,0.222647957,Fruits and Vegetables,180.9976,OUT049,Medium,Tier 1,Supermarket Type1,4165.2448
+Regular,0.252598628,Snack Foods,179.466,OUT049,Medium,Tier 1,Supermarket Type1,3775.086
+Low Fat,0.103,Hard Drinks,125.9362,OUT049,Medium,Tier 1,Supermarket Type1,1635.8706
+Regular,0.140580877,Frozen Foods,162.6526,OUT049,Medium,Tier 1,Supermarket Type1,4275.7676
+Low Fat,0.144986639,Snack Foods,93.2462,OUT049,Medium,Tier 1,Supermarket Type1,1480.7392
+Low Fat,0.288130961,Household,32.9216,OUT049,Medium,Tier 1,Supermarket Type1,588.5672
+Regular,0.135960823,Snack Foods,115.0518,OUT049,Medium,Tier 1,Supermarket Type1,1366.2216
+Regular,0.110055292,Soft Drinks,188.653,OUT049,Medium,Tier 1,Supermarket Type1,3605.307
+Low Fat,0.103,Hard Drinks,54.9614,OUT049,Medium,Tier 1,Supermarket Type1,552.614
+Low Fat,0.118295536,Canned,89.7146,OUT049,Medium,Tier 1,Supermarket Type1,547.2876
+Low Fat,0.146033346,Fruits and Vegetables,89.4172,OUT049,Medium,Tier 1,Supermarket Type1,1159.8236
+Regular,0.208471384,Baking Goods,105.8648,OUT049,Medium,Tier 1,Supermarket Type1,1973.4312
+Regular,0.287454044,Canned,211.4902,OUT049,Medium,Tier 1,Supermarket Type1,4035.4138
+Low Fat,0.208042025,Snack Foods,163.8868,OUT049,Medium,Tier 1,Supermarket Type1,3111.9492
+Low Fat,0.113781158,Hard Drinks,149.9392,OUT049,Medium,Tier 1,Supermarket Type1,1938.8096
+Low Fat,0.263216552,Snack Foods,93.512,OUT049,Medium,Tier 1,Supermarket Type1,1677.816
+Low Fat,0.179193763,Baking Goods,89.783,OUT049,Medium,Tier 1,Supermarket Type1,2247.075
+Regular,0.138311852,Fruits and Vegetables,160.9578,OUT049,Medium,Tier 1,Supermarket Type1,4813.734
+Regular,0.206080901,Fruits and Vegetables,131.2968,OUT049,Medium,Tier 1,Supermarket Type1,1957.452
+Low Fat,0.150260402,Baking Goods,102.8016,OUT049,Medium,Tier 1,Supermarket Type1,1922.8304
+Low Fat,0.128776994,Fruits and Vegetables,169.9474,OUT049,Medium,Tier 1,Supermarket Type1,2863.6058
+Regular,0.11704119,Snack Foods,199.1084,OUT049,Medium,Tier 1,Supermarket Type1,396.8168
+Regular,0.254308326,Meat,81.7276,OUT049,Medium,Tier 1,Supermarket Type1,2030.69
+low fat,0.103,Baking Goods,156.4604,OUT049,Medium,Tier 1,Supermarket Type1,2376.906
+Low Fat,0.188223447,Hard Drinks,189.2872,OUT049,Medium,Tier 1,Supermarket Type1,6050.7904
+Regular,0.130653795,Canned,88.0856,OUT049,Medium,Tier 1,Supermarket Type1,1318.284
+Low Fat,0.255294691,Breakfast,98.9358,OUT049,Medium,Tier 1,Supermarket Type1,1508.037
+Low Fat,0.124409913,Breakfast,229.7326,OUT049,Medium,Tier 1,Supermarket Type1,6930.978
+Regular,0.115030747,Canned,166.6184,OUT049,Medium,Tier 1,Supermarket Type1,1155.8288
+low fat,0.138118834,Dairy,93.412,OUT049,Medium,Tier 1,Supermarket Type1,932.12
+reg,0.112883257,Meat,149.8366,OUT049,Medium,Tier 1,Supermarket Type1,1964.7758
+Regular,0.181909166,Dairy,186.724,OUT049,Medium,Tier 1,Supermarket Type1,4474.176
+Low Fat,0.200770004,Starchy Foods,222.8746,OUT049,Medium,Tier 1,Supermarket Type1,3589.9936
+Low Fat,0.119135764,Household,195.6478,OUT049,Medium,Tier 1,Supermarket Type1,4262.4516
+Low Fat,0.168350715,Snack Foods,175.437,OUT049,Medium,Tier 1,Supermarket Type1,3175.866
+Regular,0.133742083,Canned,85.554,OUT049,Medium,Tier 1,Supermarket Type1,1211.756
+Low Fat,0.120746826,Health and Hygiene,210.8244,OUT049,Medium,Tier 1,Supermarket Type1,2540.6928
+Regular,0.164190964,Meat,47.1744,OUT049,Medium,Tier 1,Supermarket Type1,996.0368
+Low Fat,0.178056542,Dairy,76.0354,OUT049,Medium,Tier 1,Supermarket Type1,601.8832
+Low Fat,0.124240491,Canned,216.9824,OUT049,Medium,Tier 1,Supermarket Type1,4804.4128
+Low Fat,0.119132592,Health and Hygiene,130.2626,OUT049,Medium,Tier 1,Supermarket Type1,3016.7398
+Low Fat,0.123903193,Dairy,119.2782,OUT049,Medium,Tier 1,Supermarket Type1,3098.6332
+Regular,0.131320655,Canned,172.5422,OUT049,Medium,Tier 1,Supermarket Type1,2241.7486
+Regular,0.142990314,Soft Drinks,165.0868,OUT049,Medium,Tier 1,Supermarket Type1,982.7208
+Low Fat,0.133140981,Fruits and Vegetables,216.0192,OUT049,Medium,Tier 1,Supermarket Type1,2588.6304
+Low Fat,0.127515221,Health and Hygiene,189.2214,OUT049,Medium,Tier 1,Supermarket Type1,3956.8494
+Low Fat,0.231614205,Fruits and Vegetables,111.6886,OUT049,Medium,Tier 1,Supermarket Type1,1556.6404
+Low Fat,0.148340279,Snack Foods,85.025,OUT049,Medium,Tier 1,Supermarket Type1,2080.625
+Low Fat,0.139341539,Fruits and Vegetables,142.9154,OUT049,Medium,Tier 1,Supermarket Type1,3261.7542
+Low Fat,0.123423549,Snack Foods,249.0092,OUT049,Medium,Tier 1,Supermarket Type1,2988.1104
+Low Fat,0.176493831,Health and Hygiene,118.344,OUT049,Medium,Tier 1,Supermarket Type1,1797.66
+Regular,0.166962842,Breads,263.1594,OUT049,Medium,Tier 1,Supermarket Type1,2616.594
+Low Fat,0.195060694,Others,183.7608,OUT049,Medium,Tier 1,Supermarket Type1,4777.7808
+Regular,0.24826636,Fruits and Vegetables,172.908,OUT049,Medium,Tier 1,Supermarket Type1,6231.888
+Low Fat,0.151762383,Others,165.2526,OUT049,Medium,Tier 1,Supermarket Type1,3946.8624
+Regular,0.170181098,Snack Foods,258.8304,OUT049,Medium,Tier 1,Supermarket Type1,5424.9384
+Low Fat,0.121439138,Frozen Foods,254.7698,OUT049,Medium,Tier 1,Supermarket Type1,5073.396
+Regular,0.151738014,Frozen Foods,262.1278,OUT049,Medium,Tier 1,Supermarket Type1,3904.917
+LF,0.182342006,Frozen Foods,226.0062,OUT049,Medium,Tier 1,Supermarket Type1,1805.6496
+Low Fat,0.184446638,Fruits and Vegetables,257.0988,OUT049,Medium,Tier 1,Supermarket Type1,6424.97
+Regular,0.103,Breads,131.531,OUT049,Medium,Tier 1,Supermarket Type1,2466.789
+Low Fat,0.144681059,Soft Drinks,164.2526,OUT049,Medium,Tier 1,Supermarket Type1,1315.6208
+Regular,0.144313203,Canned,42.0454,OUT049,Medium,Tier 1,Supermarket Type1,377.5086
+Regular,0.132700018,Fruits and Vegetables,140.3838,OUT049,Medium,Tier 1,Supermarket Type1,1404.838
+Low Fat,0.103,Fruits and Vegetables,111.3228,OUT049,Medium,Tier 1,Supermarket Type1,1436.7964
+Low Fat,0.122064377,Snack Foods,238.2248,OUT049,Medium,Tier 1,Supermarket Type1,3555.372
+Low Fat,0.163342304,Starchy Foods,165.9526,OUT049,Medium,Tier 1,Supermarket Type1,1644.526
+Regular,0.127935297,Baking Goods,172.0422,OUT049,Medium,Tier 1,Supermarket Type1,3966.1706
+Low Fat,0.124619564,Canned,50.6982,OUT049,Medium,Tier 1,Supermarket Type1,736.3748
+Regular,0.276027688,Snack Foods,155.2972,OUT049,Medium,Tier 1,Supermarket Type1,3583.3356
+Low Fat,0.12245343,Snack Foods,120.8756,OUT049,Medium,Tier 1,Supermarket Type1,1454.1072
+Low Fat,0.246506376,Household,34.719,OUT049,Medium,Tier 1,Supermarket Type1,768.999
+Regular,0.236352623,Canned,219.7798,OUT049,Medium,Tier 1,Supermarket Type1,2644.5576
+Low Fat,0.169979957,Snack Foods,196.7084,OUT049,Medium,Tier 1,Supermarket Type1,3174.5344
+Low Fat,0.116863257,Soft Drinks,45.106,OUT049,Medium,Tier 1,Supermarket Type1,1398.18
+Low Fat,0.222547387,Baking Goods,108.9596,OUT049,Medium,Tier 1,Supermarket Type1,539.298
+LF,0.124306635,Baking Goods,119.8124,OUT049,Medium,Tier 1,Supermarket Type1,1896.1984
+Regular,0.197807042,Meat,213.356,OUT049,Medium,Tier 1,Supermarket Type1,3835.008
+Regular,0.268616415,Fruits and Vegetables,172.6764,OUT049,Medium,Tier 1,Supermarket Type1,2061.3168
+Regular,0.12754694,Breads,95.7068,OUT049,Medium,Tier 1,Supermarket Type1,1166.4816
+low fat,0.183765853,Household,169.179,OUT049,Medium,Tier 1,Supermarket Type1,2037.348
+Low Fat,0.147978225,Health and Hygiene,140.8838,OUT049,Medium,Tier 1,Supermarket Type1,2247.7408
+Regular,0.162820884,Fruits and Vegetables,130.3968,OUT049,Medium,Tier 1,Supermarket Type1,3523.4136
+LF,0.173149088,Dairy,264.5226,OUT049,Medium,Tier 1,Supermarket Type1,3436.1938
+Regular,0.264798604,Baking Goods,37.2848,OUT049,Medium,Tier 1,Supermarket Type1,745.696
+Low Fat,0.148274134,Frozen Foods,177.966,OUT049,Medium,Tier 1,Supermarket Type1,3415.554
+Regular,0.103,Snack Foods,133.0626,OUT049,Medium,Tier 1,Supermarket Type1,1573.9512
+Low Fat,0.103,Household,59.2588,OUT049,Medium,Tier 1,Supermarket Type1,916.1408
+Regular,0.103,Baking Goods,95.012,OUT049,Medium,Tier 1,Supermarket Type1,2050.664
+Low Fat,0.273072462,Canned,183.8266,OUT049,Medium,Tier 1,Supermarket Type1,1844.266
+Low Fat,0.103,Snack Foods,220.7482,OUT049,Medium,Tier 1,Supermarket Type1,4380.964
+low fat,0.125434418,Fruits and Vegetables,96.2094,OUT049,Medium,Tier 1,Supermarket Type1,952.094
+Low Fat,0.240441201,Snack Foods,157.663,OUT049,Medium,Tier 1,Supermarket Type1,2659.871
+Low Fat,0.251302815,Health and Hygiene,108.3938,OUT049,Medium,Tier 1,Supermarket Type1,2787.0388
+Low Fat,0.184914677,Breads,177.637,OUT049,Medium,Tier 1,Supermarket Type1,3352.303
+Regular,0.167113698,Frozen Foods,86.5566,OUT049,Medium,Tier 1,Supermarket Type1,1183.7924
+Regular,0.165625641,Baking Goods,165.3184,OUT049,Medium,Tier 1,Supermarket Type1,1651.184
+LF,0.14663058,Fruits and Vegetables,148.2418,OUT049,Medium,Tier 1,Supermarket Type1,1618.5598
+Low Fat,0.103,Dairy,175.1028,OUT049,Medium,Tier 1,Supermarket Type1,1593.9252
+Regular,0.215584813,Fruits and Vegetables,192.0478,OUT049,Medium,Tier 1,Supermarket Type1,1549.9824
+Low Fat,0.176306615,Canned,155.0972,OUT049,Medium,Tier 1,Supermarket Type1,3894.93
+Regular,0.27474348,Meat,48.8376,OUT049,Medium,Tier 1,Supermarket Type1,1294.3152
+Regular,0.115223687,Fruits and Vegetables,57.1904,OUT049,Medium,Tier 1,Supermarket Type1,1640.5312
+LF,0.124883368,Frozen Foods,263.791,OUT049,Medium,Tier 1,Supermarket Type1,4996.829
+Low Fat,0.121934719,Health and Hygiene,237.759,OUT049,Medium,Tier 1,Supermarket Type1,3545.385
+Low Fat,0.127693927,Household,144.1102,OUT049,Medium,Tier 1,Supermarket Type1,1749.7224
+Low Fat,0.143245222,Frozen Foods,54.9298,OUT049,Medium,Tier 1,Supermarket Type1,1348.245
+Low Fat,0.172231189,Snack Foods,112.1228,OUT049,Medium,Tier 1,Supermarket Type1,1215.7508
+Low Fat,0.133542489,Health and Hygiene,193.1162,OUT049,Medium,Tier 1,Supermarket Type1,2693.8268
+Low Fat,0.110359711,Frozen Foods,60.1536,OUT049,Medium,Tier 1,Supermarket Type1,490.0288
+Low Fat,0.162940022,Fruits and Vegetables,149.1366,OUT049,Medium,Tier 1,Supermarket Type1,4231.8248
+Regular,0.249094132,Dairy,196.1794,OUT049,Medium,Tier 1,Supermarket Type1,2926.191
+Low Fat,0.106597678,Hard Drinks,153.8998,OUT049,Medium,Tier 1,Supermarket Type1,2922.1962
+Regular,0.178287081,Dairy,115.3176,OUT049,Medium,Tier 1,Supermarket Type1,572.588
+Regular,0.156667516,Fruits and Vegetables,223.0088,OUT049,Medium,Tier 1,Supermarket Type1,671.1264
+Low Fat,0.103,Breads,85.5566,OUT049,Medium,Tier 1,Supermarket Type1,1860.2452
+Regular,0.273548238,Canned,113.8834,OUT049,Medium,Tier 1,Supermarket Type1,1382.2008
+Low Fat,0.163794097,Baking Goods,233.6616,OUT049,Medium,Tier 1,Supermarket Type1,2577.9776
+Low Fat,0.139446751,Snack Foods,90.3488,OUT049,Medium,Tier 1,Supermarket Type1,996.0368
+Regular,0.128936747,Frozen Foods,164.921,OUT049,Medium,Tier 1,Supermarket Type1,2609.936
+reg,0.188268317,Snack Foods,229.7668,OUT049,Medium,Tier 1,Supermarket Type1,3916.2356
+Regular,0.180284566,Frozen Foods,172.4106,OUT049,Medium,Tier 1,Supermarket Type1,4277.765
+Low Fat,0.13075746,Health and Hygiene,62.5168,OUT049,Medium,Tier 1,Supermarket Type1,1534.0032
+Low Fat,0.140885683,Soft Drinks,190.4188,OUT049,Medium,Tier 1,Supermarket Type1,952.094
+Low Fat,0.115657494,Health and Hygiene,36.3506,OUT049,Medium,Tier 1,Supermarket Type1,872.8638
+low fat,0.151857925,Breads,61.0194,OUT049,Medium,Tier 1,Supermarket Type1,1052.6298
+Low Fat,0.118186146,Household,144.947,OUT049,Medium,Tier 1,Supermarket Type1,3435.528
+Regular,0.103,Dairy,194.2794,OUT049,Medium,Tier 1,Supermarket Type1,4291.7468
+Low Fat,0.140639672,Health and Hygiene,98.4042,OUT049,Medium,Tier 1,Supermarket Type1,1388.8588
+Low Fat,0.167163983,Hard Drinks,229.9694,OUT049,Medium,Tier 1,Supermarket Type1,4567.388
+Regular,0.156921264,Baking Goods,123.0072,OUT049,Medium,Tier 1,Supermarket Type1,1960.1152
+Regular,0.133294931,Frozen Foods,104.099,OUT049,Medium,Tier 1,Supermarket Type1,412.796
+LF,0.1680227,Canned,87.0198,OUT049,Medium,Tier 1,Supermarket Type1,697.7584
+Regular,0.286579854,Dairy,110.857,OUT049,Medium,Tier 1,Supermarket Type1,1977.426
+Low Fat,0.138409328,Fruits and Vegetables,36.2506,OUT049,Medium,Tier 1,Supermarket Type1,834.9132
+Low Fat,0.186327693,Frozen Foods,247.2776,OUT049,Medium,Tier 1,Supermarket Type1,5944.2624
+Regular,0.145685217,Dairy,120.7782,OUT049,Medium,Tier 1,Supermarket Type1,1072.6038
+Regular,0.208181277,Frozen Foods,214.4218,OUT049,Medium,Tier 1,Supermarket Type1,5343.045
+Low Fat,0.140289996,Soft Drinks,182.7634,OUT049,Medium,Tier 1,Supermarket Type1,3453.5046
+Low Fat,0.135672263,Health and Hygiene,141.2154,OUT049,Medium,Tier 1,Supermarket Type1,709.077
+Low Fat,0.195834313,Dairy,77.667,OUT049,Medium,Tier 1,Supermarket Type1,2220.443
+reg,0.136489979,Meat,156.6314,OUT049,Medium,Tier 1,Supermarket Type1,1241.0512
+Regular,0.171059156,Dairy,120.344,OUT049,Medium,Tier 1,Supermarket Type1,1797.66
+Low Fat,0.159516756,Soft Drinks,143.4812,OUT049,Medium,Tier 1,Supermarket Type1,854.8872
+Regular,0.182837509,Fruits and Vegetables,102.1332,OUT049,Medium,Tier 1,Supermarket Type1,1743.0644
+Regular,0.148534457,Dairy,146.3102,OUT049,Medium,Tier 1,Supermarket Type1,3645.255
+Regular,0.136813351,Meat,198.1426,OUT049,Medium,Tier 1,Supermarket Type1,3757.1094
+Low Fat,0.156950661,Fruits and Vegetables,182.7292,OUT049,Medium,Tier 1,Supermarket Type1,4925.5884
+Low Fat,0.238944247,Fruits and Vegetables,171.5106,OUT049,Medium,Tier 1,Supermarket Type1,1539.9954
+Regular,0.224709653,Frozen Foods,119.7466,OUT049,Medium,Tier 1,Supermarket Type1,2003.3922
+Regular,0.164270647,Soft Drinks,53.2614,OUT049,Medium,Tier 1,Supermarket Type1,386.8298
+Regular,0.15581112,Canned,86.6224,OUT049,Medium,Tier 1,Supermarket Type1,1704.448
+Low Fat,0.215495847,Household,124.4046,OUT049,Medium,Tier 1,Supermarket Type1,1120.5414
+Low Fat,0.192817198,Canned,142.7496,OUT049,Medium,Tier 1,Supermarket Type1,3528.74
+Regular,0.224442754,Snack Foods,94.9752,OUT049,Medium,Tier 1,Supermarket Type1,1342.2528
+Low Fat,0.127201905,Canned,114.915,OUT049,Medium,Tier 1,Supermarket Type1,2796.36
+Low Fat,0.130028323,Household,127.0336,OUT049,Medium,Tier 1,Supermarket Type1,3962.8416
+Low Fat,0.113658153,Canned,83.0908,OUT049,Medium,Tier 1,Supermarket Type1,1593.9252
+Regular,0.260075658,Breakfast,166.6474,OUT049,Medium,Tier 1,Supermarket Type1,4211.185
+Low Fat,0.155257982,Snack Foods,121.8072,OUT049,Medium,Tier 1,Supermarket Type1,2450.144
+Low Fat,0.136651278,Household,108.9912,OUT049,Medium,Tier 1,Supermarket Type1,1965.4416
+Low Fat,0.178311837,Snack Foods,122.6046,OUT049,Medium,Tier 1,Supermarket Type1,2988.1104
+Low Fat,0.186488992,Household,161.3552,OUT049,Medium,Tier 1,Supermarket Type1,7148.0288
+Low Fat,0.103,Breads,229.4668,OUT049,Medium,Tier 1,Supermarket Type1,4837.7028
+LF,0.145626422,Fruits and Vegetables,227.072,OUT049,Medium,Tier 1,Supermarket Type1,4074.696
+Regular,0.15019387,Frozen Foods,52.8666,OUT049,Medium,Tier 1,Supermarket Type1,1384.1982
+Low Fat,0.142638705,Snack Foods,166.0526,OUT049,Medium,Tier 1,Supermarket Type1,3124.5994
+Low Fat,0.129362624,Frozen Foods,78.3302,OUT049,Medium,Tier 1,Supermarket Type1,1267.6832
+Low Fat,0.123729902,Breads,197.2742,OUT049,Medium,Tier 1,Supermarket Type1,3782.4098
+Low Fat,0.133842963,Soft Drinks,143.1154,OUT049,Medium,Tier 1,Supermarket Type1,2552.6772
+Low Fat,0.148117476,Snack Foods,187.9556,OUT049,Medium,Tier 1,Supermarket Type1,2440.8228
+Low Fat,0.120182935,Dairy,51.235,OUT049,Medium,Tier 1,Supermarket Type1,848.895
+Regular,0.208831117,Fruits and Vegetables,41.6796,OUT049,Medium,Tier 1,Supermarket Type1,784.3124
+Low Fat,0.16363976,Dairy,173.0106,OUT049,Medium,Tier 1,Supermarket Type1,3593.3226
+Low Fat,0.130991093,Snack Foods,145.976,OUT049,Medium,Tier 1,Supermarket Type1,3515.424
+Regular,0.263951491,Canned,256.1014,OUT049,Medium,Tier 1,Supermarket Type1,3060.0168
+Low Fat,0.139997104,Snack Foods,115.9834,OUT049,Medium,Tier 1,Supermarket Type1,2073.3012
+Low Fat,0.206634038,Canned,101.399,OUT049,Medium,Tier 1,Supermarket Type1,1031.99
+Low Fat,0.148055587,Dairy,242.3854,OUT049,Medium,Tier 1,Supermarket Type1,2416.854
+Low Fat,0.11845846,Household,166.0526,OUT049,Medium,Tier 1,Supermarket Type1,3617.9572
+reg,0.231621941,Frozen Foods,175.537,OUT049,Medium,Tier 1,Supermarket Type1,3528.74
+Low Fat,0.153829881,Canned,122.7072,OUT049,Medium,Tier 1,Supermarket Type1,1470.0864
+Low Fat,0.1851398,Baking Goods,37.2164,OUT049,Medium,Tier 1,Supermarket Type1,579.246
+Low Fat,0.172524391,Household,91.8146,OUT049,Medium,Tier 1,Supermarket Type1,2371.5796
+Low Fat,0.210564024,Snack Foods,149.0076,OUT049,Medium,Tier 1,Supermarket Type1,1182.4608
+Low Fat,0.152155769,Soft Drinks,65.2168,OUT049,Medium,Tier 1,Supermarket Type1,958.752
+Regular,0.15010181,Meat,181.8608,OUT049,Medium,Tier 1,Supermarket Type1,4594.02
+LF,0.224914662,Snack Foods,43.5428,OUT049,Medium,Tier 1,Supermarket Type1,615.1992
+Low Fat,0.145357203,Hard Drinks,123.2388,OUT049,Medium,Tier 1,Supermarket Type1,1857.582
+Low Fat,0.204932076,Dairy,54.5956,OUT049,Medium,Tier 1,Supermarket Type1,764.3384
+Low Fat,0.140681448,Fruits and Vegetables,111.0886,OUT049,Medium,Tier 1,Supermarket Type1,222.3772
+Low Fat,0.135072321,Household,102.2016,OUT049,Medium,Tier 1,Supermarket Type1,1416.8224
+Low Fat,0.175410764,Frozen Foods,122.5098,OUT049,Medium,Tier 1,Supermarket Type1,1084.5882
+Regular,0.154697108,Baking Goods,79.2644,OUT049,Medium,Tier 1,Supermarket Type1,864.2084
+Regular,0.1190526,Breads,43.9402,OUT049,Medium,Tier 1,Supermarket Type1,1286.3256
+Low Fat,0.14753262,Snack Foods,127.202,OUT049,Medium,Tier 1,Supermarket Type1,2656.542
+Regular,0.129342897,Fruits and Vegetables,104.1332,OUT049,Medium,Tier 1,Supermarket Type1,1230.3984
+Regular,0.150330801,Snack Foods,120.8782,OUT049,Medium,Tier 1,Supermarket Type1,2621.9204
+Regular,0.159406129,Breakfast,231.43,OUT049,Medium,Tier 1,Supermarket Type1,3029.39
+Low Fat,0.18167708,Canned,37.8506,OUT049,Medium,Tier 1,Supermarket Type1,341.5554
+Regular,0.188082648,Canned,153.5314,OUT049,Medium,Tier 1,Supermarket Type1,2171.8396
+Low Fat,0.162940022,Health and Hygiene,262.4226,OUT049,Medium,Tier 1,Supermarket Type1,3964.839
+Low Fat,0.138967107,Fruits and Vegetables,260.3278,OUT049,Medium,Tier 1,Supermarket Type1,7549.5062
+Regular,0.113998932,Snack Foods,164.3842,OUT049,Medium,Tier 1,Supermarket Type1,1823.6262
+Regular,0.124039273,Snack Foods,160.0578,OUT049,Medium,Tier 1,Supermarket Type1,2567.3248
+Low Fat,0.142306822,Household,150.7366,OUT049,Medium,Tier 1,Supermarket Type1,3325.0052
+Low Fat,0.123600553,Snack Foods,147.5734,OUT049,Medium,Tier 1,Supermarket Type1,3414.8882
+Low Fat,0.225761775,Dairy,124.373,OUT049,Medium,Tier 1,Supermarket Type1,2093.941
+Low Fat,0.158159054,Fruits and Vegetables,145.6444,OUT049,Medium,Tier 1,Supermarket Type1,2467.4548
+Low Fat,0.215399145,Canned,120.444,OUT049,Medium,Tier 1,Supermarket Type1,1438.128
+Low Fat,0.194348964,Snack Foods,150.3708,OUT049,Medium,Tier 1,Supermarket Type1,4363.6532
+Regular,0.136103556,Breakfast,48.9008,OUT049,Medium,Tier 1,Supermarket Type1,708.4112
+LF,0.223467994,Others,145.147,OUT049,Medium,Tier 1,Supermarket Type1,5296.439
+Low Fat,0.170312613,Snack Foods,234.359,OUT049,Medium,Tier 1,Supermarket Type1,3072.667
+Low Fat,0.117883661,Starchy Foods,174.508,OUT049,Medium,Tier 1,Supermarket Type1,3635.268
+Low Fat,0.189088353,Snack Foods,168.7816,OUT049,Medium,Tier 1,Supermarket Type1,3355.632
+Regular,0.19039577,Frozen Foods,105.3306,OUT049,Medium,Tier 1,Supermarket Type1,836.2448
+Regular,0.245632186,Starchy Foods,172.3448,OUT049,Medium,Tier 1,Supermarket Type1,4431.5648
+Low Fat,0.215399145,Hard Drinks,111.686,OUT049,Medium,Tier 1,Supermarket Type1,2263.72
+Regular,0.145378864,Canned,125.4046,OUT049,Medium,Tier 1,Supermarket Type1,1867.569
+Low Fat,0.172532901,Meat,51.8324,OUT049,Medium,Tier 1,Supermarket Type1,1090.5804
+Regular,0.197010215,Baking Goods,95.2068,OUT049,Medium,Tier 1,Supermarket Type1,777.6544
+LF,0.259541861,Meat,162.4578,OUT049,Medium,Tier 1,Supermarket Type1,2888.2404
+Low Fat,0.113027885,Snack Foods,249.6408,OUT049,Medium,Tier 1,Supermarket Type1,3254.4304
+LF,0.103,Fruits and Vegetables,175.237,OUT049,Medium,Tier 1,Supermarket Type1,3881.614
+Regular,0.254087845,Meat,155.1314,OUT049,Medium,Tier 1,Supermarket Type1,1551.314
+Low Fat,0.183626601,Health and Hygiene,92.5436,OUT049,Medium,Tier 1,Supermarket Type1,378.1744
+Low Fat,0.142553606,Snack Foods,99.1042,OUT049,Medium,Tier 1,Supermarket Type1,2579.3092
